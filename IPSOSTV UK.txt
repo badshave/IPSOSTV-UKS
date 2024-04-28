@@ -1,0 +1,1344 @@
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="[UK] BBC 1 4K ? rec" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC 1 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100648
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="[UK] BBC 1 HD" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC 1 HD
+http://line.4k-beast.co:80/03F69C/D09123/745618
+#EXTINF:-1 tvg-ID="bbc1.uk" tvg-name="[UK] BBC 1 SD" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC 1 SD
+http://line.4k-beast.co:80/03F69C/D09123/100665
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="[UK] BBC 2 4K ? rec" tvg-logo="https://img.logo-cdn.cc/bbctwo.png" group-title="[UK] GENERAL",[UK] BBC 2 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100649
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="[UK] BBC 2 HD" tvg-logo="https://img.logo-cdn.cc/bbctwo.png" group-title="[UK] GENERAL",[UK] BBC 2 HD
+http://line.4k-beast.co:80/03F69C/D09123/745619
+#EXTINF:-1 tvg-ID="bbc2.uk" tvg-name="[UK] BBC 2 SD" tvg-logo="https://img.logo-cdn.cc/bbctwo.png" group-title="[UK] GENERAL",[UK] BBC 2 SD
+http://line.4k-beast.co:80/03F69C/D09123/100666
+#EXTINF:-1 tvg-ID="cbbc.uk" tvg-name="[UK] BBC 3/CBBC 4K ? rec" tvg-logo="https://img.logo-cdn.cc/cbbc.png" group-title="[UK] GENERAL",[UK] BBC 3/CBBC 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100650
+#EXTINF:-1 tvg-ID="bbc3.uk" tvg-name="[UK] BBC 3/CBBC HD" tvg-logo="https://img.logo-cdn.cc/cbbc.png" group-title="[UK] GENERAL",[UK] BBC 3/CBBC HD
+http://line.4k-beast.co:80/03F69C/D09123/745620
+#EXTINF:-1 tvg-ID="cbbc.uk" tvg-name="[UK] BBC 3/CBBC SD" tvg-logo="https://img.logo-cdn.cc/cbbc.png" group-title="[UK] GENERAL",[UK] BBC 3/CBBC SD
+http://line.4k-beast.co:80/03F69C/D09123/100667
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="[UK] BBC 4/CBEEBIES 4K ? rec" tvg-logo="https://img.logo-cdn.cc/cbbc.png" group-title="[UK] GENERAL",[UK] BBC 4/CBEEBIES 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100651
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="[UK] BBC 4/CBEEBIES HD" tvg-logo="https://img.logo-cdn.cc/cbbc.png" group-title="[UK] GENERAL",[UK] BBC 4/CBEEBIES HD
+http://line.4k-beast.co:80/03F69C/D09123/745621
+#EXTINF:-1 tvg-ID="bbc4.uk" tvg-name="[UK] BBC 4/CBEEBIES SD" tvg-logo="https://img.logo-cdn.cc/cbbc.png" group-title="[UK] GENERAL",[UK] BBC 4/CBEEBIES SD
+http://line.4k-beast.co:80/03F69C/D09123/100668
+#EXTINF:-1 tvg-ID="bbcscotland.uk" tvg-name="[UK] BBC SCOTLAND 4K ? rec" tvg-logo="https://img.logo-cdn.cc/bbcscotland.png" group-title="[UK] GENERAL",[UK] BBC SCOTLAND 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100652
+#EXTINF:-1 tvg-ID="bbcscotland.uk" tvg-name="[UK] BBC SCOTLAND HD" tvg-logo="https://img.logo-cdn.cc/bbcscotland.png" group-title="[UK] GENERAL",[UK] BBC SCOTLAND HD
+http://line.4k-beast.co:80/03F69C/D09123/745622
+#EXTINF:-1 tvg-ID="bbcscotland.uk" tvg-name="[UK] BBC SCOTLAND SD" tvg-logo="https://img.logo-cdn.cc/bbconescotland.png" group-title="[UK] GENERAL",[UK] BBC SCOTLAND SD
+http://line.4k-beast.co:80/03F69C/D09123/100710
+#EXTINF:-1 tvg-ID="bbc1scotland.uk" tvg-name="[UK] BBC ONE SCOTLAND HD" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE SCOTLAND HD
+http://line.4k-beast.co:80/03F69C/D09123/745623
+#EXTINF:-1 tvg-ID="bbcscotland.uk" tvg-name="[UK] BBC ONE SCOTLAND SD" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE SCOTLAND SD
+http://line.4k-beast.co:80/03F69C/D09123/100711
+#EXTINF:-1 tvg-ID="bbc1scotland.uk" tvg-name="[UK] BBC ONE SCOTLAND SD" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE SCOTLAND SD
+http://line.4k-beast.co:80/03F69C/D09123/100721
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="[UK] ITV 1 4K ? rec" tvg-logo="https://img.logo-cdn.cc/itv1.png" group-title="[UK] GENERAL",[UK] ITV 1 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100653
+#EXTINF:-1 tvg-ID="itv1anglia.uk" tvg-name="[UK] ITV 1 HD" tvg-logo="https://img.logo-cdn.cc/itv1.png" group-title="[UK] GENERAL",[UK] ITV 1 HD
+http://line.4k-beast.co:80/03F69C/D09123/745624
+#EXTINF:-1 tvg-ID="itv1.uk" tvg-name="[UK] ITV 1 SD" tvg-logo="https://img.logo-cdn.cc/itv1.png" group-title="[UK] GENERAL",[UK] ITV 1 SD
+http://line.4k-beast.co:80/03F69C/D09123/100670
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="[UK] ITV 2 4K ? rec" tvg-logo="https://img.logo-cdn.cc/itv2.png" group-title="[UK] GENERAL",[UK] ITV 2 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100654
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="[UK] ITV 2 HD" tvg-logo="https://img.logo-cdn.cc/itv2.png" group-title="[UK] GENERAL",[UK] ITV 2 HD
+http://line.4k-beast.co:80/03F69C/D09123/745625
+#EXTINF:-1 tvg-ID="itv2.uk" tvg-name="[UK] ITV 2 SD" tvg-logo="https://img.logo-cdn.cc/itv2.png" group-title="[UK] GENERAL",[UK] ITV 2 SD
+http://line.4k-beast.co:80/03F69C/D09123/100671
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="[UK] ITV 3 4K ? rec" tvg-logo="https://img.logo-cdn.cc/itv3.png" group-title="[UK] GENERAL",[UK] ITV 3 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100655
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="[UK] ITV 3 HD" tvg-logo="https://img.logo-cdn.cc/itv3.png" group-title="[UK] GENERAL",[UK] ITV 3 HD
+http://line.4k-beast.co:80/03F69C/D09123/745626
+#EXTINF:-1 tvg-ID="itv3.uk" tvg-name="[UK] ITV 3 SD" tvg-logo="https://img.logo-cdn.cc/itv3.png" group-title="[UK] GENERAL",[UK] ITV 3 SD
+http://line.4k-beast.co:80/03F69C/D09123/100672
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="[UK] ITV 4 4K ? rec" tvg-logo="https://img.logo-cdn.cc/itv4.png" group-title="[UK] GENERAL",[UK] ITV 4 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100656
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="[UK] ITV 4 HD" tvg-logo="https://img.logo-cdn.cc/itv4.png" group-title="[UK] GENERAL",[UK] ITV 4 HD
+http://line.4k-beast.co:80/03F69C/D09123/745627
+#EXTINF:-1 tvg-ID="itv4.uk" tvg-name="[UK] ITV 4 SD" tvg-logo="https://img.logo-cdn.cc/itv4.png" group-title="[UK] GENERAL",[UK] ITV 4 SD
+http://line.4k-beast.co:80/03F69C/D09123/100673
+#EXTINF:-1 tvg-ID="itvbe.uk" tvg-name="[UK] ITV BE 4K ? rec" tvg-logo="https://img.logo-cdn.cc/itvbe.png" group-title="[UK] GENERAL",[UK] ITV BE 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100657
+#EXTINF:-1 tvg-ID="itvborder.uk" tvg-name="[UK] ITV BE HD" tvg-logo="https://img.logo-cdn.cc/itvbe.png" group-title="[UK] GENERAL",[UK] ITV BE HD
+http://line.4k-beast.co:80/03F69C/D09123/745628
+#EXTINF:-1 tvg-ID="itvbe.uk" tvg-name="[UK] ITV BE SD" tvg-logo="https://img.logo-cdn.cc/itvbe.png" group-title="[UK] GENERAL",[UK] ITV BE SD
+http://line.4k-beast.co:80/03F69C/D09123/100674
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV1 +1 SD" tvg-logo="https://img.logo-cdn.cc/itv1plus1.png" group-title="[UK] GENERAL",[UK] ITV1 +1 SD
+http://line.4k-beast.co:80/03F69C/D09123/756492
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV2 +1 SD" tvg-logo="https://img.logo-cdn.cc/itv2plus1.png" group-title="[UK] GENERAL",[UK] ITV2 +1 SD
+http://line.4k-beast.co:80/03F69C/D09123/756490
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV3 +1 SD" tvg-logo="https://img.logo-cdn.cc/itv3plus1.png" group-title="[UK] GENERAL",[UK] ITV3 +1 SD
+http://line.4k-beast.co:80/03F69C/D09123/756489
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV4 +1 SD" tvg-logo="https://img.logo-cdn.cc/itv4plus1.png" group-title="[UK] GENERAL",[UK] ITV4 +1 SD
+http://line.4k-beast.co:80/03F69C/D09123/756491
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV YORKSHIRE WEST 4K" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV YORKSHIRE WEST 4K
+http://line.4k-beast.co:80/03F69C/D09123/756488
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV YORKSHIRE EAST 4K" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV YORKSHIRE EAST 4K
+http://line.4k-beast.co:80/03F69C/D09123/756487
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] GB NEWS 4K ? rec" tvg-logo="https://img.logo-cdn.cc/GBNEWS.png" group-title="[UK] GENERAL",[UK] GB NEWS 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/454912
+#EXTINF:-1 tvg-ID="gbnews.uk" tvg-name="[UK] GB NEWS HD" tvg-logo="https://img.logo-cdn.cc/GBNEWS.png" group-title="[UK] GENERAL",[UK] GB NEWS HD
+http://line.4k-beast.co:80/03F69C/D09123/745629
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] GB NEWS SD" tvg-logo="https://img.logo-cdn.cc/GBNEWS.png" group-title="[UK] GENERAL",[UK] GB NEWS SD
+http://line.4k-beast.co:80/03F69C/D09123/454911
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="[UK] CHANNEL 4 4K ? rec" tvg-logo="https://img.logo-cdn.cc/channel4.png" group-title="[UK] GENERAL",[UK] CHANNEL 4 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100658
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="[UK] CHANNEL 4 HD" tvg-logo="https://img.logo-cdn.cc/channel4.png" group-title="[UK] GENERAL",[UK] CHANNEL 4 HD
+http://line.4k-beast.co:80/03F69C/D09123/745630
+#EXTINF:-1 tvg-ID="channel4.uk" tvg-name="[UK] CHANNEL 4 SD" tvg-logo="https://img.logo-cdn.cc/channel4.png" group-title="[UK] GENERAL",[UK] CHANNEL 4 SD
+http://line.4k-beast.co:80/03F69C/D09123/100675
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="[UK] CHANNEL 5 4K ? rec" tvg-logo="https://img.logo-cdn.cc/channel5.png" group-title="[UK] GENERAL",[UK] CHANNEL 5 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100659
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="[UK] CHANNEL 5 HD" tvg-logo="https://img.logo-cdn.cc/channel5.png" group-title="[UK] GENERAL",[UK] CHANNEL 5 HD
+http://line.4k-beast.co:80/03F69C/D09123/745631
+#EXTINF:-1 tvg-ID="channel5.uk" tvg-name="[UK] CHANNEL 5 SD" tvg-logo="https://img.logo-cdn.cc/channel5.png" group-title="[UK] GENERAL",[UK] CHANNEL 5 SD
+http://line.4k-beast.co:80/03F69C/D09123/100676
+#EXTINF:-1 tvg-ID="cbbc.uk" tvg-name="[UK] CBBC 4K ? rec" tvg-logo="https://img.logo-cdn.cc/cbbc.png" group-title="[UK] GENERAL",[UK] CBBC 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100661
+#EXTINF:-1 tvg-ID="cbbc.uk" tvg-name="[UK] CBBC HD" tvg-logo="https://img.logo-cdn.cc/cbbc.png" group-title="[UK] GENERAL",[UK] CBBC HD
+http://line.4k-beast.co:80/03F69C/D09123/745633
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TALK TV 4K ? rec" tvg-logo="https://img.logo-cdn.cc/talktv.png" group-title="[UK] GENERAL",[UK] TALK TV 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/714352
+#EXTINF:-1 tvg-ID="talktv.uk" tvg-name="[UK] TALK TV HD" tvg-logo="https://img.logo-cdn.cc/talktv.png" group-title="[UK] GENERAL",[UK] TALK TV HD
+http://line.4k-beast.co:80/03F69C/D09123/745634
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TALK TV SD" tvg-logo="https://img.logo-cdn.cc/talktv.png" group-title="[UK] GENERAL",[UK] TALK TV SD
+http://line.4k-beast.co:80/03F69C/D09123/714353
+#EXTINF:-1 tvg-ID="alibi.uk" tvg-name="[UK] ALIBI 4K ? rec" tvg-logo="https://img.logo-cdn.cc/alibi.png" group-title="[UK] GENERAL",[UK] ALIBI 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100663
+#EXTINF:-1 tvg-ID="alibi.uk" tvg-name="[UK] ALIBI HD" tvg-logo="https://img.logo-cdn.cc/alibi.png" group-title="[UK] GENERAL",[UK] ALIBI HD
+http://line.4k-beast.co:80/03F69C/D09123/745635
+#EXTINF:-1 tvg-ID="alibi.uk" tvg-name="[UK] ALIBI SD" tvg-logo="https://img.logo-cdn.cc/alibi.png" group-title="[UK] GENERAL",[UK] ALIBI SD
+http://line.4k-beast.co:80/03F69C/D09123/100678
+#EXTINF:-1 tvg-ID="bbcparliament.uk" tvg-name="[UK] BBC PARLIAMENT SD" tvg-logo="https://img.logo-cdn.cc/bbcparliament.png" group-title="[UK] GENERAL",[UK] BBC PARLIAMENT SD
+http://line.4k-beast.co:80/03F69C/D09123/100669
+#EXTINF:-1 tvg-ID="citv.uk" tvg-name="[UK] CITV SD" tvg-logo="https://img.logo-cdn.cc/CITV.png" group-title="[UK] GENERAL",[UK] CITV SD
+http://line.4k-beast.co:80/03F69C/D09123/100677
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LONDON LIVE" tvg-logo="https://img.logo-cdn.cc/londonlive.png" group-title="[UK] GENERAL",[UK] LONDON LIVE
+http://line.4k-beast.co:80/03F69C/D09123/788004
+#EXTINF:-1 tvg-ID="bbcnews.uk" tvg-name="[UK] BBC NEWS 4K ? rec" tvg-logo="https://img.logo-cdn.cc/bbcnews.png" group-title="[UK] GENERAL",[UK] BBC NEWS 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100681
+#EXTINF:-1 tvg-ID="bbcnews.uk" tvg-name="[UK] BBC NEWS HD" tvg-logo="https://img.logo-cdn.cc/bbcnews.png" group-title="[UK] GENERAL",[UK] BBC NEWS HD
+http://line.4k-beast.co:80/03F69C/D09123/745636
+#EXTINF:-1 tvg-ID="bbcnews.uk" tvg-name="[UK] BBC NEWS SD" tvg-logo="https://img.logo-cdn.cc/bbcnews.png" group-title="[UK] GENERAL",[UK] BBC NEWS SD
+http://line.4k-beast.co:80/03F69C/D09123/100692
+#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="[UK] BBC WORLD NEWS 4K ? rec" tvg-logo="https://img.logo-cdn.cc/bbcnews.png" group-title="[UK] GENERAL",[UK] BBC WORLD NEWS 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100682
+#EXTINF:-1 tvg-ID="bbcworldnews.uk" tvg-name="[UK] BBC WORLD NEWS SD" tvg-logo="https://img.logo-cdn.cc/bbcnews.png" group-title="[UK] GENERAL",[UK] BBC WORLD NEWS SD
+http://line.4k-beast.co:80/03F69C/D09123/100693
+#EXTINF:-1 tvg-ID="bloombergtv.uk" tvg-name="[UK] BLOOMBERG 4K ? rec" tvg-logo="https://img.logo-cdn.cc/bloomberg.png" group-title="[UK] GENERAL",[UK] BLOOMBERG 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100683
+#EXTINF:-1 tvg-ID="bloombergtv.uk" tvg-name="[UK] BLOOMBERG HD" tvg-logo="https://img.logo-cdn.cc/bloomberg.png" group-title="[UK] GENERAL",[UK] BLOOMBERG HD
+http://line.4k-beast.co:80/03F69C/D09123/745638
+#EXTINF:-1 tvg-ID="bloombergtv.uk" tvg-name="[UK] BLOOMBERG SD" tvg-logo="https://img.logo-cdn.cc/bloomberg.png" group-title="[UK] GENERAL",[UK] BLOOMBERG SD
+http://line.4k-beast.co:80/03F69C/D09123/100694
+#EXTINF:-1 tvg-ID="cnn.uk" tvg-name="[UK] CNN 4K ? rec" tvg-logo="https://img.logo-cdn.cc/cnn.png" group-title="[UK] GENERAL",[UK] CNN 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100684
+#EXTINF:-1 tvg-ID="cnn.uk" tvg-name="[UK] CNN HD" tvg-logo="https://img.logo-cdn.cc/cnn.png" group-title="[UK] GENERAL",[UK] CNN HD
+http://line.4k-beast.co:80/03F69C/D09123/745639
+#EXTINF:-1 tvg-ID="cnn.uk" tvg-name="[UK] CNN SD" tvg-logo="https://img.logo-cdn.cc/cnn.png" group-title="[UK] GENERAL",[UK] CNN SD
+http://line.4k-beast.co:80/03F69C/D09123/100696
+#EXTINF:-1 tvg-ID="france24.uk" tvg-name="[UK] FRANCE 24 4K ? rec" tvg-logo="https://img.logo-cdn.cc/france24.png" group-title="[UK] GENERAL",[UK] FRANCE 24 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100685
+#EXTINF:-1 tvg-ID="france24.uk" tvg-name="[UK] FRANCE 24 HD" tvg-logo="https://img.logo-cdn.cc/france24.png" group-title="[UK] GENERAL",[UK] FRANCE 24 HD
+http://line.4k-beast.co:80/03F69C/D09123/745640
+#EXTINF:-1 tvg-ID="france24.uk" tvg-name="[UK] FRANCE 24 SD" tvg-logo="https://img.logo-cdn.cc/france24.png" group-title="[UK] GENERAL",[UK] FRANCE 24 SD
+http://line.4k-beast.co:80/03F69C/D09123/100699
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="[UK] SKY NEWS 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skynews.png" group-title="[UK] GENERAL",[UK] SKY NEWS 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100690
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="[UK] SKY NEWS HD" tvg-logo="https://img.logo-cdn.cc/skynews.png" group-title="[UK] GENERAL",[UK] SKY NEWS HD
+http://line.4k-beast.co:80/03F69C/D09123/745641
+#EXTINF:-1 tvg-ID="skynews.uk" tvg-name="[UK] SKY NEWS SD" tvg-logo="https://img.logo-cdn.cc/skynews.png" group-title="[UK] GENERAL",[UK] SKY NEWS SD
+http://line.4k-beast.co:80/03F69C/D09123/100702
+#EXTINF:-1 tvg-ID="cnbc.uk" tvg-name="[UK] CNBC SD" tvg-logo="https://img.logo-cdn.cc/cbbc.png" group-title="[UK] GENERAL",[UK] CNBC SD
+http://line.4k-beast.co:80/03F69C/D09123/100695
+#EXTINF:-1 tvg-ID="euronews.uk" tvg-name="[UK] EURO NEWS SD" tvg-logo="https://img.logo-cdn.cc/euronews.png" group-title="[UK] GENERAL",[UK] EURO NEWS SD
+http://line.4k-beast.co:80/03F69C/D09123/100697
+#EXTINF:-1 tvg-ID="aljazeera.uk" tvg-name="[UK] AL JAZEERA EN SD" tvg-logo="https://img.logo-cdn.cc/aljazeera.png" group-title="[UK] GENERAL",[UK] AL JAZEERA EN SD
+http://line.4k-beast.co:80/03F69C/D09123/100700
+#EXTINF:-1 tvg-ID="foodnetwork.uk" tvg-name="[UK] FOOD NETWORK SD" tvg-logo="https://img.logo-cdn.cc/foodnetwork.png" group-title="[UK] GENERAL",[UK] FOOD NETWORK SD
+http://line.4k-beast.co:80/03F69C/D09123/100704
+#EXTINF:-1 tvg-ID="bbcalba.uk" tvg-name="[UK] BBC ALBA SD" tvg-logo="https://img.logo-cdn.cc/bbcalba.png" group-title="[UK] GENERAL",[UK] BBC ALBA SD
+http://line.4k-beast.co:80/03F69C/D09123/100709
+#EXTINF:-1 tvg-ID="bbconechannelislands.uk" tvg-name="[UK] BBC ONE CHANNEL ISLANDS SD" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE CHANNEL ISLANDS SD
+http://line.4k-beast.co:80/03F69C/D09123/100713
+#EXTINF:-1 tvg-ID="bbceaste.uk" tvg-name="[UK] BBC ONE EAST 4K" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE EAST 4K
+http://line.4k-beast.co:80/03F69C/D09123/100714
+#EXTINF:-1 tvg-ID="bbceastmidlands.uk" tvg-name="[UK] BBC ONE EAST MIDLANDS 4K" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE EAST MIDLANDS 4K
+http://line.4k-beast.co:80/03F69C/D09123/100715
+#EXTINF:-1 tvg-ID="bbcwest.uk" tvg-name="[UK] BBC ONE WEST SD" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE WEST SD
+http://line.4k-beast.co:80/03F69C/D09123/100726
+#EXTINF:-1 tvg-ID="bbcwestmidlans.uk" tvg-name="[UK] BBC ONE WEST MIDLANDS 4K" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE WEST MIDLANDS 4K
+http://line.4k-beast.co:80/03F69C/D09123/100727
+#EXTINF:-1 tvg-ID="bbconelondon.uk" tvg-name="[UK] BBC ONE LONDON 4K" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE LONDON 4K
+http://line.4k-beast.co:80/03F69C/D09123/100716
+#EXTINF:-1 tvg-ID="bbcneandcumbria.uk" tvg-name="[UK] BBC ONE NORTH EAST & CUMBRIA 4K" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE NORTH EAST & CUMBRIA 4K
+http://line.4k-beast.co:80/03F69C/D09123/100717
+#EXTINF:-1 tvg-ID="bbcnorthwest.uk" tvg-name="[UK] BBC ONE NORTH WEST SD" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE NORTH WEST SD
+http://line.4k-beast.co:80/03F69C/D09123/100718
+#EXTINF:-1 tvg-ID="bbconechannelislands.uk" tvg-name="[UK] BBC ONE NORTHEN ISLAND SD" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE NORTHEN ISLAND SD
+http://line.4k-beast.co:80/03F69C/D09123/100719
+#EXTINF:-1 tvg-ID="bbcsouth.uk" tvg-name="[UK] BBC ONE SOUTH SD" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE SOUTH SD
+http://line.4k-beast.co:80/03F69C/D09123/100722
+#EXTINF:-1 tvg-ID="bbcsoutheast.uk" tvg-name="[UK] BBC ONE SOUTH EAST 4K" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE SOUTH EAST 4K
+http://line.4k-beast.co:80/03F69C/D09123/100723
+#EXTINF:-1 tvg-ID="bbcsouthwest.uk" tvg-name="[UK] BBC ONE SOUTH WEST SD" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE SOUTH WEST SD
+http://line.4k-beast.co:80/03F69C/D09123/100724
+#EXTINF:-1 tvg-ID="bbc1wales.uk" tvg-name="[UK] BBC ONE WALES 4K" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE WALES 4K
+http://line.4k-beast.co:80/03F69C/D09123/100725
+#EXTINF:-1 tvg-ID="bbcyourkshirelincolnshire.uk" tvg-name="[UK] BBC ONE YORKSHIRE & LINCOLNSHIRE 4K" tvg-logo="https://img.logo-cdn.cc/bbcone.png" group-title="[UK] GENERAL",[UK] BBC ONE YORKSHIRE & LINCOLNSHIRE 4K
+http://line.4k-beast.co:80/03F69C/D09123/100729
+#EXTINF:-1 tvg-ID="bbc2northernireland.uk" tvg-name="[UK] BBC TWO NORTHEN IRELAND 4K" tvg-logo="https://img.logo-cdn.cc/bbctwo.png" group-title="[UK] GENERAL",[UK] BBC TWO NORTHEN IRELAND 4K
+http://line.4k-beast.co:80/03F69C/D09123/100731
+#EXTINF:-1 tvg-ID="bbc2wales.uk" tvg-name="[UK] BBC TWO WALES SD" tvg-logo="https://img.logo-cdn.cc/bbctwo.png" group-title="[UK] GENERAL",[UK] BBC TWO WALES SD
+http://line.4k-beast.co:80/03F69C/D09123/100733
+#EXTINF:-1 tvg-ID="itvlondon.uk" tvg-name="[UK] ITV LONDON 4K" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV LONDON 4K
+http://line.4k-beast.co:80/03F69C/D09123/108416
+#EXTINF:-1 tvg-ID="itvtynetees.uk" tvg-name="[UK] ITV TYNE TEES 4K" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV TYNE TEES 4K
+http://line.4k-beast.co:80/03F69C/D09123/100739
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV ANGLIA EAST 4K" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV ANGLIA EAST 4K
+http://line.4k-beast.co:80/03F69C/D09123/100740
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV CENTRAL WEST 4K" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV CENTRAL WEST 4K
+http://line.4k-beast.co:80/03F69C/D09123/100743
+#EXTINF:-1 tvg-ID="itvgranada.uk" tvg-name="[UK] ITV GRANADA 4K" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV GRANADA 4K
+http://line.4k-beast.co:80/03F69C/D09123/100744
+#EXTINF:-1 tvg-ID="itvmeridian.uk" tvg-name="[UK] ITV MERIDIAN EAST SD" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV MERIDIAN EAST SD
+http://line.4k-beast.co:80/03F69C/D09123/100745
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV MERIDIAN TV SOUTH 4K" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV MERIDIAN TV SOUTH 4K
+http://line.4k-beast.co:80/03F69C/D09123/100747
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV TYNE TEES TV NORTH 4K" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV TYNE TEES TV NORTH 4K
+http://line.4k-beast.co:80/03F69C/D09123/100748
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV WESTCOUNTRY SOUTH WEST SD" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV WESTCOUNTRY SOUTH WEST SD
+http://line.4k-beast.co:80/03F69C/D09123/100749
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV WESTCOUNTRY WEST 4K" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV WESTCOUNTRY WEST 4K
+http://line.4k-beast.co:80/03F69C/D09123/100750
+#EXTINF:-1 tvg-ID="itvborder.uk" tvg-name="[UK] ITV BORDER 4K" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV BORDER 4K
+http://line.4k-beast.co:80/03F69C/D09123/100753
+#EXTINF:-1 tvg-ID="itvwales.uk" tvg-name="[UK] ITV WALES SD" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV WALES SD
+http://line.4k-beast.co:80/03F69C/D09123/100754
+#EXTINF:-1 tvg-ID="stv.uk" tvg-name="[UK] STV HD" tvg-logo="https://img.logo-cdn.cc/stv.png" group-title="[UK] GENERAL",[UK] STV HD
+http://line.4k-beast.co:80/03F69C/D09123/745658
+#EXTINF:-1 tvg-ID="stv.uk" tvg-name="[UK] STV SD" tvg-logo="https://img.logo-cdn.cc/stv.png" group-title="[UK] GENERAL",[UK] STV SD
+http://line.4k-beast.co:80/03F69C/D09123/100756
+#EXTINF:-1 tvg-ID="stv.uk" tvg-name="[UK] STV CENTRAL WEST 4K" tvg-logo="https://img.logo-cdn.cc/stv.png" group-title="[UK] GENERAL",[UK] STV CENTRAL WEST 4K
+http://line.4k-beast.co:80/03F69C/D09123/100757
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] STV NORTH SD" tvg-logo="https://img.logo-cdn.cc/stv.png" group-title="[UK] GENERAL",[UK] STV NORTH SD
+http://line.4k-beast.co:80/03F69C/D09123/100758
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ITV BORDER SCOTLAND TV 4K" tvg-logo="https://img.logo-cdn.cc/ITV.png" group-title="[UK] GENERAL",[UK] ITV BORDER SCOTLAND TV 4K
+http://line.4k-beast.co:80/03F69C/D09123/100759
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="[UK] E4 4K ? rec" tvg-logo="https://img.logo-cdn.cc/e4hd.png" group-title="[UK] ENTERTAINMENT",[UK] E4 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100660
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="[UK] E4 HD" tvg-logo="https://img.logo-cdn.cc/e4hd.png" group-title="[UK] ENTERTAINMENT",[UK] E4 HD
+http://line.4k-beast.co:80/03F69C/D09123/745632
+#EXTINF:-1 tvg-ID="e4.uk" tvg-name="[UK] E4 SD" tvg-logo="https://img.logo-cdn.cc/e4.png" group-title="[UK] ENTERTAINMENT",[UK] E4 SD
+http://line.4k-beast.co:80/03F69C/D09123/100832
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="[UK] 4 SEVEN 4K ? rec" tvg-logo="https://img.logo-cdn.cc/4seven.png" group-title="[UK] ENTERTAINMENT",[UK] 4 SEVEN 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100662
+#EXTINF:-1 tvg-ID="4seven.uk" tvg-name="[UK] 4 SEVEN SD" tvg-logo="https://img.logo-cdn.cc/4seven.png" group-title="[UK] ENTERTAINMENT",[UK] 4 SEVEN SD
+http://line.4k-beast.co:80/03F69C/D09123/100815
+#EXTINF:-1 tvg-ID="eden.uk" tvg-name="[UK] EDEN HD" tvg-logo="https://img.logo-cdn.cc/eden.png" group-title="[UK] ENTERTAINMENT",[UK] EDEN HD
+http://line.4k-beast.co:80/03F69C/D09123/745647
+#EXTINF:-1 tvg-ID="eden.uk" tvg-name="[UK] EDEN SD" tvg-logo="https://img.logo-cdn.cc/eden.png" group-title="[UK] ENTERTAINMENT",[UK] EDEN SD
+http://line.4k-beast.co:80/03F69C/D09123/100833
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="[UK] GOLD 4K ? rec" tvg-logo="https://img.logo-cdn.cc/gold.png" group-title="[UK] ENTERTAINMENT",[UK] GOLD 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100800
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="[UK] GOLD HD" tvg-logo="https://img.logo-cdn.cc/gold.png" group-title="[UK] ENTERTAINMENT",[UK] GOLD HD
+http://line.4k-beast.co:80/03F69C/D09123/745648
+#EXTINF:-1 tvg-ID="gold.uk" tvg-name="[UK] GOLD SD" tvg-logo="https://img.logo-cdn.cc/gold.png" group-title="[UK] ENTERTAINMENT",[UK] GOLD SD
+http://line.4k-beast.co:80/03F69C/D09123/100835
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="[UK] DAVE 4K ? rec" tvg-logo="https://img.logo-cdn.cc/dave.png" group-title="[UK] ENTERTAINMENT",[UK] DAVE 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100797
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="[UK] DAVE HD" tvg-logo="https://img.logo-cdn.cc/dave.png" group-title="[UK] ENTERTAINMENT",[UK] DAVE HD
+http://line.4k-beast.co:80/03F69C/D09123/745649
+#EXTINF:-1 tvg-ID="dave.uk" tvg-name="[UK] DAVE SD" tvg-logo="https://img.logo-cdn.cc/dave.png" group-title="[UK] ENTERTAINMENT",[UK] DAVE SD
+http://line.4k-beast.co:80/03F69C/D09123/100828
+#EXTINF:-1 tvg-ID="eentertainment.uk" tvg-name="[UK] E! ENTERTAINMENT 4K ? rec" tvg-logo="https://img.logo-cdn.cc/eentertainment.png" group-title="[UK] ENTERTAINMENT",[UK] E! ENTERTAINMENT 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100802
+#EXTINF:-1 tvg-ID="eentertainment.uk" tvg-name="[UK] E! ENTERTAINMENT HD" tvg-logo="https://img.logo-cdn.cc/eentertainment.png" group-title="[UK] ENTERTAINMENT",[UK] E! ENTERTAINMENT HD
+http://line.4k-beast.co:80/03F69C/D09123/745650
+#EXTINF:-1 tvg-ID="eentertainment.uk" tvg-name="[UK] E! ENTERTAINMENT SD" tvg-logo="https://img.logo-cdn.cc/eentertainment.png" group-title="[UK] ENTERTAINMENT",[UK] E! ENTERTAINMENT SD
+http://line.4k-beast.co:80/03F69C/D09123/100831
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TALKING PICTURES" tvg-logo="https://img.logo-cdn.cc/talkingpicturestv.png" group-title="[UK] ENTERTAINMENT",[UK] TALKING PICTURES
+http://line.4k-beast.co:80/03F69C/D09123/788124
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="[UK] MORE 4 4K ? rec" tvg-logo="https://img.logo-cdn.cc/more4.png" group-title="[UK] ENTERTAINMENT",[UK] MORE 4 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100803
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="[UK] MORE 4 HD" tvg-logo="https://img.logo-cdn.cc/more4.png" group-title="[UK] ENTERTAINMENT",[UK] MORE 4 HD
+http://line.4k-beast.co:80/03F69C/D09123/745651
+#EXTINF:-1 tvg-ID="more4.uk" tvg-name="[UK] MORE 4 SD" tvg-logo="https://img.logo-cdn.cc/more4.png" group-title="[UK] ENTERTAINMENT",[UK] MORE 4 SD
+http://line.4k-beast.co:80/03F69C/D09123/100837
+#EXTINF:-1 tvg-ID="quest.uk" tvg-name="[UK] QUEST HD ? rec" tvg-logo="https://img.logo-cdn.cc/quest.png" group-title="[UK] ENTERTAINMENT",[UK] QUEST HD ? rec
+http://line.4k-beast.co:80/03F69C/D09123/745652
+#EXTINF:-1 tvg-ID="quest.uk" tvg-name="[UK] QUEST SD" tvg-logo="https://img.logo-cdn.cc/quest.png" group-title="[UK] ENTERTAINMENT",[UK] QUEST SD
+http://line.4k-beast.co:80/03F69C/D09123/100841
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] 5ACTION SD" tvg-logo="https://img.logo-cdn.cc/5action.png" group-title="[UK] ENTERTAINMENT",[UK] 5ACTION SD
+http://line.4k-beast.co:80/03F69C/D09123/892742
+#EXTINF:-1 tvg-ID="skymax.uk" tvg-name="[UK] SKY MAX 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skymax.png" group-title="[UK] ENTERTAINMENT",[UK] SKY MAX 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/547880
+#EXTINF:-1 tvg-ID="skymax.uk" tvg-name="[UK] SKY MAX HD" tvg-logo="https://img.logo-cdn.cc/skymax.png" group-title="[UK] ENTERTAINMENT",[UK] SKY MAX HD
+http://line.4k-beast.co:80/03F69C/D09123/745653
+#EXTINF:-1 tvg-ID="skymax.uk" tvg-name="[UK] SKY MAX SD" tvg-logo="https://img.logo-cdn.cc/skymax.png" group-title="[UK] ENTERTAINMENT",[UK] SKY MAX SD
+http://line.4k-beast.co:80/03F69C/D09123/547881
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="[UK] SKY SHOWCASE 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skyone.png" group-title="[UK] ENTERTAINMENT",[UK] SKY SHOWCASE 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100806
+#EXTINF:-1 tvg-ID="skyshowcase.uk" tvg-name="[UK] SKY SHOWCASE HD" tvg-logo="https://img.logo-cdn.cc/skyone.png" group-title="[UK] ENTERTAINMENT",[UK] SKY SHOWCASE HD
+http://line.4k-beast.co:80/03F69C/D09123/745654
+#EXTINF:-1 tvg-ID="sky1.uk" tvg-name="[UK] SKY SHOWCASE SD" tvg-logo="https://img.logo-cdn.cc/skyone.png" group-title="[UK] ENTERTAINMENT",[UK] SKY SHOWCASE SD
+http://line.4k-beast.co:80/03F69C/D09123/100813
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="[UK] SKY ATLANTIC 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skyatlantic.png" group-title="[UK] ENTERTAINMENT",[UK] SKY ATLANTIC 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100936
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="[UK] SKY ATLANTIC HD" tvg-logo="https://img.logo-cdn.cc/skyatlantic.png" group-title="[UK] ENTERTAINMENT",[UK] SKY ATLANTIC HD
+http://line.4k-beast.co:80/03F69C/D09123/745655
+#EXTINF:-1 tvg-ID="skyatlantic.uk" tvg-name="[UK] SKY ATLANTIC SD" tvg-logo="https://img.logo-cdn.cc/skyatlantic.png" group-title="[UK] ENTERTAINMENT",[UK] SKY ATLANTIC SD
+http://line.4k-beast.co:80/03F69C/D09123/100953
+#EXTINF:-1 tvg-ID="skyarts.uk" tvg-name="[UK] SKY ARTS 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skyarts.png" group-title="[UK] ENTERTAINMENT",[UK] SKY ARTS 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100937
+#EXTINF:-1 tvg-ID="skyarts.uk" tvg-name="[UK] SKY ARTS HD" tvg-logo="https://img.logo-cdn.cc/skyarts.png" group-title="[UK] ENTERTAINMENT",[UK] SKY ARTS HD
+http://line.4k-beast.co:80/03F69C/D09123/745656
+#EXTINF:-1 tvg-ID="skyarts.uk" tvg-name="[UK] SKY ARTS SD" tvg-logo="https://img.logo-cdn.cc/skyarts.png" group-title="[UK] ENTERTAINMENT",[UK] SKY ARTS SD
+http://line.4k-beast.co:80/03F69C/D09123/100954
+#EXTINF:-1 tvg-ID="skywitnessplus1.uk" tvg-name="[UK] SKY WITNESS 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skywitness.png" group-title="[UK] ENTERTAINMENT",[UK] SKY WITNESS 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100807
+#EXTINF:-1 tvg-ID="skywitness.uk" tvg-name="[UK] SKY WITNESS HD" tvg-logo="https://img.logo-cdn.cc/skywitness.png" group-title="[UK] ENTERTAINMENT",[UK] SKY WITNESS HD
+http://line.4k-beast.co:80/03F69C/D09123/745657
+#EXTINF:-1 tvg-ID="skywitnessplus1.uk" tvg-name="[UK] SKY WITNESS SD" tvg-logo="https://img.logo-cdn.cc/skywitness.png" group-title="[UK] ENTERTAINMENT",[UK] SKY WITNESS SD
+http://line.4k-beast.co:80/03F69C/D09123/100966
+#EXTINF:-1 tvg-ID="w.uk" tvg-name="[UK] WATCH HD" tvg-logo="https://img.logo-cdn.cc/WATCH.png" group-title="[UK] ENTERTAINMENT",[UK] WATCH HD
+http://line.4k-beast.co:80/03F69C/D09123/745660
+#EXTINF:-1 tvg-ID="w.uk" tvg-name="[UK] WATCH SD" tvg-logo="https://img.logo-cdn.cc/WATCH.png" group-title="[UK] ENTERTAINMENT",[UK] WATCH SD
+http://line.4k-beast.co:80/03F69C/D09123/100853
+#EXTINF:-1 tvg-ID="tlc.uk" tvg-name="[UK] TLC HD" tvg-logo="https://img.logo-cdn.cc/tlc.png" group-title="[UK] ENTERTAINMENT",[UK] TLC HD
+http://line.4k-beast.co:80/03F69C/D09123/745661
+#EXTINF:-1 tvg-ID="tlc.uk" tvg-name="[UK] TLC SD" tvg-logo="https://img.logo-cdn.cc/tlc.png" group-title="[UK] ENTERTAINMENT",[UK] TLC SD
+http://line.4k-beast.co:80/03F69C/D09123/100795
+#EXTINF:-1 tvg-ID="comedycentral.uk" tvg-name="[UK] COMEDY CENTRAL 4K ? rec" tvg-logo="https://img.logo-cdn.cc/comedycentral.png" group-title="[UK] ENTERTAINMENT",[UK] COMEDY CENTRAL 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100916
+#EXTINF:-1 tvg-ID="comedycentral.uk" tvg-name="[UK] COMEDY CENTRAL HD" tvg-logo="https://img.logo-cdn.cc/comedycentral.png" group-title="[UK] ENTERTAINMENT",[UK] COMEDY CENTRAL HD
+http://line.4k-beast.co:80/03F69C/D09123/745662
+#EXTINF:-1 tvg-ID="comedycentral.uk" tvg-name="[UK] COMEDY CENTRAL SD" tvg-logo="https://img.logo-cdn.cc/comedycentral.png" group-title="[UK] ENTERTAINMENT",[UK] COMEDY CENTRAL SD
+http://line.4k-beast.co:80/03F69C/D09123/100925
+#EXTINF:-1 tvg-ID="comedycentralextra.uk" tvg-name="[UK] COMEDY CENTRAL EXTRA SD" tvg-logo="https://img.logo-cdn.cc/comedycentralextra.png" group-title="[UK] ENTERTAINMENT",[UK] COMEDY CENTRAL EXTRA SD
+http://line.4k-beast.co:80/03F69C/D09123/100926
+#EXTINF:-1 tvg-ID="5select.uk" tvg-name="[UK] 5 SELECT SD" tvg-logo="https://img.logo-cdn.cc/5select.png" group-title="[UK] ENTERTAINMENT",[UK] 5 SELECT SD
+http://line.4k-beast.co:80/03F69C/D09123/100816
+#EXTINF:-1 tvg-ID="5star.uk" tvg-name="[UK] 5 STAR SD" tvg-logo="https://img.logo-cdn.cc/5star.png" group-title="[UK] ENTERTAINMENT",[UK] 5 STAR SD
+http://line.4k-beast.co:80/03F69C/D09123/100818
+#EXTINF:-1 tvg-ID="fiveusa.uk" tvg-name="[UK] 5 USA SD" tvg-logo="https://img.logo-cdn.cc/5usa.png" group-title="[UK] ENTERTAINMENT",[UK] 5 USA SD
+http://line.4k-beast.co:80/03F69C/D09123/100819
+#EXTINF:-1 tvg-ID="blaze.uk" tvg-name="[UK] BLAZE SD" tvg-logo="https://img.logo-cdn.cc/blaze.png" group-title="[UK] ENTERTAINMENT",[UK] BLAZE SD
+http://line.4k-beast.co:80/03F69C/D09123/100822
+#EXTINF:-1 tvg-ID="cbsreality.uk" tvg-name="[UK] CBS REALITY SD" tvg-logo="https://img.logo-cdn.cc/cbsreality.png" group-title="[UK] ENTERTAINMENT",[UK] CBS REALITY SD
+http://line.4k-beast.co:80/03F69C/D09123/100825
+#EXTINF:-1 tvg-ID="challenge.uk" tvg-name="[UK] CHALLENGE SD" tvg-logo="https://img.logo-cdn.cc/challenge.png" group-title="[UK] ENTERTAINMENT",[UK] CHALLENGE SD
+http://line.4k-beast.co:80/03F69C/D09123/100827
+#EXTINF:-1 tvg-ID="pbsamerica.uk" tvg-name="[UK] PBS AMERICA SD" tvg-logo="https://img.logo-cdn.cc/pbsamerica.png" group-title="[UK] ENTERTAINMENT",[UK] PBS AMERICA SD
+http://line.4k-beast.co:80/03F69C/D09123/100839
+#EXTINF:-1 tvg-ID="picktv.uk" tvg-name="[UK] SKY MIX SD" tvg-logo="https://img.logo-cdn.cc/pick.png" group-title="[UK] ENTERTAINMENT",[UK] SKY MIX SD
+http://line.4k-beast.co:80/03F69C/D09123/100840
+#EXTINF:-1 tvg-ID="questred.uk" tvg-name="[UK] QUEST RED SD" tvg-logo="https://img.logo-cdn.cc/questred.png" group-title="[UK] ENTERTAINMENT",[UK] QUEST RED SD
+http://line.4k-beast.co:80/03F69C/D09123/100842
+#EXTINF:-1 tvg-ID="discoverydmax.uk" tvg-name="[UK] DMAX SD" tvg-logo="https://img.logo-cdn.cc/dmax.png" group-title="[UK] ENTERTAINMENT",[UK] DMAX SD
+http://line.4k-beast.co:80/03F69C/D09123/100829
+#EXTINF:-1 tvg-ID="drama.uk" tvg-name="[UK] DRAMA SD" tvg-logo="https://img.logo-cdn.cc/drama.png" group-title="[UK] ENTERTAINMENT",[UK] DRAMA SD
+http://line.4k-beast.co:80/03F69C/D09123/100830
+#EXTINF:-1 tvg-ID="really.uk" tvg-name="[UK] REALLY SD" tvg-logo="https://img.logo-cdn.cc/really.png" group-title="[UK] ENTERTAINMENT",[UK] REALLY SD
+http://line.4k-beast.co:80/03F69C/D09123/100844
+#EXTINF:-1 tvg-ID="yesterday.uk" tvg-name="[UK] YESTERDAY SD" tvg-logo="https://img.logo-cdn.cc/yesterday.png" group-title="[UK] ENTERTAINMENT",[UK] YESTERDAY SD
+http://line.4k-beast.co:80/03F69C/D09123/100855
+#EXTINF:-1 tvg-ID="qvc.uk" tvg-name="[UK] QVC SD" tvg-logo="https://img.logo-cdn.cc/qvc.png" group-title="[UK] ENTERTAINMENT",[UK] QVC SD
+http://line.4k-beast.co:80/03F69C/D09123/102419
+#EXTINF:-1 tvg-ID="qvcbeauty.uk" tvg-name="[UK] QVC BEAUTY SD" tvg-logo="https://img.logo-cdn.cc/qvcbeauty.png" group-title="[UK] ENTERTAINMENT",[UK] QVC BEAUTY SD
+http://line.4k-beast.co:80/03F69C/D09123/102420
+#EXTINF:-1 tvg-ID="qvcextra.uk" tvg-name="[UK] QVC EXTRA SD" tvg-logo="https://img.logo-cdn.cc/qvcextra.png" group-title="[UK] ENTERTAINMENT",[UK] QVC EXTRA SD
+http://line.4k-beast.co:80/03F69C/D09123/102421
+#EXTINF:-1 tvg-ID="qvcstyle.uk" tvg-name="[UK] QVC STYLE SD" tvg-logo="https://img.logo-cdn.cc/qvcstyle.png" group-title="[UK] ENTERTAINMENT",[UK] QVC STYLE SD
+http://line.4k-beast.co:80/03F69C/D09123/102422
+#EXTINF:-1 tvg-ID="skydocumentaries.uk" tvg-name="[UK] SKY DOCUMENTARIES 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skydocumentaries.png" group-title="[UK] DOCUMENTARY",[UK] SKY DOCUMENTARIES 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/543035
+#EXTINF:-1 tvg-ID="skydocumentaries.uk" tvg-name="[UK] SKY DOCUMENTARIES HD" tvg-logo="https://img.logo-cdn.cc/skydocumentaries.png" group-title="[UK] DOCUMENTARY",[UK] SKY DOCUMENTARIES HD
+http://line.4k-beast.co:80/03F69C/D09123/745676
+#EXTINF:-1 tvg-ID="skydocumentaries.uk" tvg-name="[UK] SKY DOCUMENTARIES SD" tvg-logo="https://img.logo-cdn.cc/skydocumentaries.png" group-title="[UK] DOCUMENTARY",[UK] SKY DOCUMENTARIES SD
+http://line.4k-beast.co:80/03F69C/D09123/543036
+#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="[UK] DISCOVERY 4K ? rec" tvg-logo="https://img.logo-cdn.cc/discovery.png" group-title="[UK] DOCUMENTARY",[UK] DISCOVERY 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100761
+#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="[UK] DISCOVERY HD" tvg-logo="https://img.logo-cdn.cc/discovery.png" group-title="[UK] DOCUMENTARY",[UK] DISCOVERY HD
+http://line.4k-beast.co:80/03F69C/D09123/745677
+#EXTINF:-1 tvg-ID="discoverychannel.uk" tvg-name="[UK] DISCOVERY SD" tvg-logo="https://img.logo-cdn.cc/discovery.png" group-title="[UK] DOCUMENTARY",[UK] DISCOVERY SD
+http://line.4k-beast.co:80/03F69C/D09123/100774
+#EXTINF:-1 tvg-ID="discoveryscience.uk" tvg-name="[UK] DISCOVERY SCIENCE SD" tvg-logo="https://img.logo-cdn.cc/discoveryscience-clivebesle.png" group-title="[UK] DOCUMENTARY",[UK] DISCOVERY SCIENCE SD
+http://line.4k-beast.co:80/03F69C/D09123/100777
+#EXTINF:-1 tvg-ID="discoveryturbo.uk" tvg-name="[UK] DISCOVERY TURBO SD" tvg-logo="https://img.logo-cdn.cc/discoveryturbo.png" group-title="[UK] DOCUMENTARY",[UK] DISCOVERY TURBO SD
+http://line.4k-beast.co:80/03F69C/D09123/100779
+#EXTINF:-1 tvg-ID="horseandcountry.uk" tvg-name="[UK] HORSE AND COUNTRY SD" tvg-logo="https://img.logo-cdn.cc/horseandcountry.png" group-title="[UK] DOCUMENTARY",[UK] HORSE AND COUNTRY SD
+http://line.4k-beast.co:80/03F69C/D09123/100788
+#EXTINF:-1 tvg-ID="investigationdiscovery.uk" tvg-name="[UK] INVESTIGATION DISCOVERY SD" tvg-logo="https://img.logo-cdn.cc/investigationdiscovery.png" group-title="[UK] DOCUMENTARY",[UK] INVESTIGATION DISCOVERY SD
+http://line.4k-beast.co:80/03F69C/D09123/100789
+#EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="[UK] NAT GEO 4K ? rec" tvg-logo="https://img.logo-cdn.cc/ngchd.png" group-title="[UK] DOCUMENTARY",[UK] NAT GEO 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100762
+#EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="[UK] NAT GEO HD" tvg-logo="https://img.logo-cdn.cc/ngchd.png" group-title="[UK] DOCUMENTARY",[UK] NAT GEO HD
+http://line.4k-beast.co:80/03F69C/D09123/745678
+#EXTINF:-1 tvg-ID="natgeo.uk" tvg-name="[UK] NAT GEO SD" tvg-logo="https://img.logo-cdn.cc/ngchd.png" group-title="[UK] DOCUMENTARY",[UK] NAT GEO SD
+http://line.4k-beast.co:80/03F69C/D09123/100780
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="[UK] NAT GEO WILD 4K ? rec" tvg-logo="https://img.logo-cdn.cc/natgeowildhd.png" group-title="[UK] DOCUMENTARY",[UK] NAT GEO WILD 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100763
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="[UK] NAT GEO WILD HD" tvg-logo="https://img.logo-cdn.cc/natgeowildhd.png" group-title="[UK] DOCUMENTARY",[UK] NAT GEO WILD HD
+http://line.4k-beast.co:80/03F69C/D09123/745679
+#EXTINF:-1 tvg-ID="natgeowild.uk" tvg-name="[UK] NAT GEO WILD SD" tvg-logo="https://img.logo-cdn.cc/natgeowildhd.png" group-title="[UK] DOCUMENTARY",[UK] NAT GEO WILD SD
+http://line.4k-beast.co:80/03F69C/D09123/100781
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="[UK] ANIMAL PLANET HD" tvg-logo="https://img.logo-cdn.cc/animalplanet.png" group-title="[UK] DOCUMENTARY",[UK] ANIMAL PLANET HD
+http://line.4k-beast.co:80/03F69C/D09123/745680
+#EXTINF:-1 tvg-ID="animalplanet.uk" tvg-name="[UK] ANIMAL PLANET SD" tvg-logo="https://img.logo-cdn.cc/animalplanet.png" group-title="[UK] DOCUMENTARY",[UK] ANIMAL PLANET SD
+http://line.4k-beast.co:80/03F69C/D09123/100782
+#EXTINF:-1 tvg-ID="crimeandinvestigationnetwork.uk" tvg-name="[UK] CRIME&INVESTIGATION 4K ? rec" tvg-logo="https://img.logo-cdn.cc/crimeandinvestigation.png" group-title="[UK] DOCUMENTARY",[UK] CRIME&INVESTIGATION 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100765
+#EXTINF:-1 tvg-ID="crimeandinvestigationnetwork.uk" tvg-name="[UK] CRIME&INVESTIGATION HD" tvg-logo="https://img.logo-cdn.cc/crimeandinvestigation.png" group-title="[UK] DOCUMENTARY",[UK] CRIME&INVESTIGATION HD
+http://line.4k-beast.co:80/03F69C/D09123/745681
+#EXTINF:-1 tvg-ID="crimeandinvestigationnetwork.uk" tvg-name="[UK] CRIME&INVESTIGATION SD" tvg-logo="https://img.logo-cdn.cc/crimeandinvestigation.png" group-title="[UK] DOCUMENTARY",[UK] CRIME&INVESTIGATION SD
+http://line.4k-beast.co:80/03F69C/D09123/100784
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY CRIME 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skycrimehd.png" group-title="[UK] DOCUMENTARY",[UK] SKY CRIME 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/739766
+#EXTINF:-1 tvg-ID="skycrime.uk" tvg-name="[UK] SKY CRIME HD" tvg-logo="https://img.logo-cdn.cc/skycrimehd.png" group-title="[UK] DOCUMENTARY",[UK] SKY CRIME HD
+http://line.4k-beast.co:80/03F69C/D09123/745686
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY CRIME SD" tvg-logo="https://img.logo-cdn.cc/skycrimehd.png" group-title="[UK] DOCUMENTARY",[UK] SKY CRIME SD
+http://line.4k-beast.co:80/03F69C/D09123/739767
+#EXTINF:-1 tvg-ID="historychannel.uk" tvg-name="[UK] SKY HISTORY 4K ? rec" tvg-logo="https://img.logo-cdn.cc/history.png" group-title="[UK] DOCUMENTARY",[UK] SKY HISTORY 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100766
+#EXTINF:-1 tvg-ID="skyhistory.uk" tvg-name="[UK] SKY HISTORY HD" tvg-logo="https://img.logo-cdn.cc/skyhistory.png" group-title="[UK] DOCUMENTARY",[UK] SKY HISTORY HD
+http://line.4k-beast.co:80/03F69C/D09123/745682
+#EXTINF:-1 tvg-ID="historychannel.uk" tvg-name="[UK] SKY HISTORY SD" tvg-logo="https://img.logo-cdn.cc/history.png" group-title="[UK] DOCUMENTARY",[UK] SKY HISTORY SD
+http://line.4k-beast.co:80/03F69C/D09123/100786
+#EXTINF:-1 tvg-ID="history2.uk" tvg-name="[UK] SKY HISTORY 2 4K ? rec" tvg-logo="https://img.logo-cdn.cc/history2.png" group-title="[UK] DOCUMENTARY",[UK] SKY HISTORY 2 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100767
+#EXTINF:-1 tvg-ID="skyhistory2.uk" tvg-name="[UK] SKY HISTORY 2 HD" tvg-logo="https://img.logo-cdn.cc/history2.png" group-title="[UK] DOCUMENTARY",[UK] SKY HISTORY 2 HD
+http://line.4k-beast.co:80/03F69C/D09123/745683
+#EXTINF:-1 tvg-ID="history2.uk" tvg-name="[UK] SKY HISTORY 2 SD" tvg-logo="https://img.logo-cdn.cc/history2.png" group-title="[UK] DOCUMENTARY",[UK] SKY HISTORY 2 SD
+http://line.4k-beast.co:80/03F69C/D09123/100787
+#EXTINF:-1 tvg-ID="skynature.uk" tvg-name="[UK] SKY NATURE 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skynature.png" group-title="[UK] DOCUMENTARY",[UK] SKY NATURE 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/164493
+#EXTINF:-1 tvg-ID="skynature.uk" tvg-name="[UK] SKY NATURE HD" tvg-logo="https://img.logo-cdn.cc/skynature.png" group-title="[UK] DOCUMENTARY",[UK] SKY NATURE HD
+http://line.4k-beast.co:80/03F69C/D09123/745685
+#EXTINF:-1 tvg-ID="skynature.uk" tvg-name="[UK] SKY NATURE SD" tvg-logo="https://img.logo-cdn.cc/skynature.png" group-title="[UK] DOCUMENTARY",[UK] SKY NATURE SD
+http://line.4k-beast.co:80/03F69C/D09123/164494
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] FLIX MOVIES ACTION" tvg-logo="https://img.logo-cdn.cc/flixoriginal.png" group-title="[UK] MOVIES",[UK] FLIX MOVIES ACTION
+http://line.4k-beast.co:80/03F69C/D09123/1212096
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] FLIX MOVIES COMEDY" tvg-logo="https://img.logo-cdn.cc/flixoriginal.png" group-title="[UK] MOVIES",[UK] FLIX MOVIES COMEDY
+http://line.4k-beast.co:80/03F69C/D09123/1212099
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] FLIX MOVIES DRAMA" tvg-logo="https://img.logo-cdn.cc/flixoriginal.png" group-title="[UK] MOVIES",[UK] FLIX MOVIES DRAMA
+http://line.4k-beast.co:80/03F69C/D09123/1212100
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] FLIX MOVIES ROMANCE" tvg-logo="https://img.logo-cdn.cc/flix.png" group-title="[UK] MOVIES",[UK] FLIX MOVIES ROMANCE
+http://line.4k-beast.co:80/03F69C/D09123/1373535
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] FLIX MOVIES FAMILY" tvg-logo="https://img.logo-cdn.cc/flixoriginal.png" group-title="[UK] MOVIES",[UK] FLIX MOVIES FAMILY
+http://line.4k-beast.co:80/03F69C/D09123/1212098
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] FLIX MOVIES HORROR" tvg-logo="https://img.logo-cdn.cc/flixoriginal.png" group-title="[UK] MOVIES",[UK] FLIX MOVIES HORROR
+http://line.4k-beast.co:80/03F69C/D09123/1212120
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] FLIX MOVIES CRIME" tvg-logo="https://img.logo-cdn.cc/flixoriginal.png" group-title="[UK] MOVIES",[UK] FLIX MOVIES CRIME
+http://line.4k-beast.co:80/03F69C/D09123/1212095
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] FLIX MOVIES ANIMATION" tvg-logo="https://img.logo-cdn.cc/flixoriginal.png" group-title="[UK] MOVIES",[UK] FLIX MOVIES ANIMATION
+http://line.4k-beast.co:80/03F69C/D09123/1212097
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] FLIX MOVIES TERMINATOR" tvg-logo="https://img.logo-cdn.cc/flixoriginal.png" group-title="[UK] MOVIES",[UK] FLIX MOVIES TERMINATOR
+http://line.4k-beast.co:80/03F69C/D09123/1212121
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="[UK] SKY CINEMA ACTION 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skycinema.png" group-title="[UK] MOVIES",[UK] SKY CINEMA ACTION 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100938
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="[UK] SKY CINEMA ACTION HD" tvg-logo="https://img.logo-cdn.cc/skycinema.png" group-title="[UK] MOVIES",[UK] SKY CINEMA ACTION HD
+http://line.4k-beast.co:80/03F69C/D09123/745663
+#EXTINF:-1 tvg-ID="skyaction.uk" tvg-name="[UK] SKY CINEMA ACTION SD" tvg-logo="https://img.logo-cdn.cc/skycinema.png" group-title="[UK] MOVIES",[UK] SKY CINEMA ACTION SD
+http://line.4k-beast.co:80/03F69C/D09123/100955
+#EXTINF:-1 tvg-ID="skycinemacomedy.uk" tvg-name="[UK] SKY CINEMA COMEDY 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skycinemacomedy.png" group-title="[UK] MOVIES",[UK] SKY CINEMA COMEDY 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100939
+#EXTINF:-1 tvg-ID="skycinemacomedy.uk" tvg-name="[UK] SKY CINEMA COMEDY HD" tvg-logo="https://img.logo-cdn.cc/skycinemacomedy.png" group-title="[UK] MOVIES",[UK] SKY CINEMA COMEDY HD
+http://line.4k-beast.co:80/03F69C/D09123/745664
+#EXTINF:-1 tvg-ID="skycomedy.uk" tvg-name="[UK] SKY CINEMA COMEDY SD" tvg-logo="https://img.logo-cdn.cc/skycinemacomedy.png" group-title="[UK] MOVIES",[UK] SKY CINEMA COMEDY SD
+http://line.4k-beast.co:80/03F69C/D09123/100956
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="[UK] SKY CINEMA FAMILY 4K ? rec" tvg-logo="https://img.logo-cdn.cc/SKYCINEMAFAMILY.png" group-title="[UK] MOVIES",[UK] SKY CINEMA FAMILY 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100941
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="[UK] SKY CINEMA FAMILY HD" tvg-logo="https://img.logo-cdn.cc/SKYCINEMAFAMILY.png" group-title="[UK] MOVIES",[UK] SKY CINEMA FAMILY HD
+http://line.4k-beast.co:80/03F69C/D09123/745665
+#EXTINF:-1 tvg-ID="skyfamily.uk" tvg-name="[UK] SKY CINEMA FAMILY SD" tvg-logo="https://img.logo-cdn.cc/SKYCINEMAFAMILY.png" group-title="[UK] MOVIES",[UK] SKY CINEMA FAMILY SD
+http://line.4k-beast.co:80/03F69C/D09123/100959
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="[UK] SKY CINEMA PREMIERE 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skycinemapremiere.png" group-title="[UK] MOVIES",[UK] SKY CINEMA PREMIERE 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/213526
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="[UK] SKY CINEMA PREMIER HD" tvg-logo="https://img.logo-cdn.cc/skycinemapremiere.png" group-title="[UK] MOVIES",[UK] SKY CINEMA PREMIER HD
+http://line.4k-beast.co:80/03F69C/D09123/745666
+#EXTINF:-1 tvg-ID="skypremiere.uk" tvg-name="[UK] SKY CINEMA PREMIERE SD" tvg-logo="https://img.logo-cdn.cc/skycinemapremiere.png" group-title="[UK] MOVIES",[UK] SKY CINEMA PREMIERE SD
+http://line.4k-beast.co:80/03F69C/D09123/213527
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="[UK] SKY CINEMA GREATS 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skycinemagreats.png" group-title="[UK] MOVIES",[UK] SKY CINEMA GREATS 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100942
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="[UK] SKY CINEMA GREATS HD" tvg-logo="https://img.logo-cdn.cc/skycinemagreats.png" group-title="[UK] MOVIES",[UK] SKY CINEMA GREATS HD
+http://line.4k-beast.co:80/03F69C/D09123/745667
+#EXTINF:-1 tvg-ID="skygreats.uk" tvg-name="[UK] SKY CINEMA GREATS SD" tvg-logo="https://img.logo-cdn.cc/skycinemagreats.png" group-title="[UK] MOVIES",[UK] SKY CINEMA GREATS SD
+http://line.4k-beast.co:80/03F69C/D09123/100960
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="[UK] SKY CINEMA SCI-FI & HORROR 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skycinemascifiandhorror.png" group-title="[UK] MOVIES",[UK] SKY CINEMA SCI-FI & HORROR 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100944
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="[UK] SKY CINEMA SCI-FI & HORROR HD" tvg-logo="https://img.logo-cdn.cc/skycinemascifiandhorror.png" group-title="[UK] MOVIES",[UK] SKY CINEMA SCI-FI & HORROR HD
+http://line.4k-beast.co:80/03F69C/D09123/745668
+#EXTINF:-1 tvg-ID="skyscifihorror.uk" tvg-name="[UK] SKY CINEMA SCI-FI & HORROR SD" tvg-logo="https://img.logo-cdn.cc/skycinemascifiandhorror.png" group-title="[UK] MOVIES",[UK] SKY CINEMA SCI-FI & HORROR SD
+http://line.4k-beast.co:80/03F69C/D09123/100963
+#EXTINF:-1 tvg-ID="skythriller.uk" tvg-name="[UK] SKY CINEMA THRILLER 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skycinema.png" group-title="[UK] MOVIES",[UK] SKY CINEMA THRILLER 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100946
+#EXTINF:-1 tvg-ID="skythriller.uk" tvg-name="[UK] SKY CINEMA THRILLER HD" tvg-logo="https://img.logo-cdn.cc/skycinema.png" group-title="[UK] MOVIES",[UK] SKY CINEMA THRILLER HD
+http://line.4k-beast.co:80/03F69C/D09123/745669
+#EXTINF:-1 tvg-ID="skythriller.uk" tvg-name="[UK] SKY CINEMA THRILLER SD" tvg-logo="https://img.logo-cdn.cc/skycinema.png" group-title="[UK] MOVIES",[UK] SKY CINEMA THRILLER SD
+http://line.4k-beast.co:80/03F69C/D09123/100965
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="[UK] SKY CINEMA DRAMA 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skycinemadrama.png" group-title="[UK] MOVIES",[UK] SKY CINEMA DRAMA 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100947
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="[UK] SKY CINEMA DRAMA HD" tvg-logo="https://img.logo-cdn.cc/skycinemadrama.png" group-title="[UK] MOVIES",[UK] SKY CINEMA DRAMA HD
+http://line.4k-beast.co:80/03F69C/D09123/745670
+#EXTINF:-1 tvg-ID="skydrama.uk" tvg-name="[UK] SKY CINEMA DRAMA SD" tvg-logo="https://img.logo-cdn.cc/skycinemadrama.png" group-title="[UK] MOVIES",[UK] SKY CINEMA DRAMA SD
+http://line.4k-beast.co:80/03F69C/D09123/100957
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="[UK] SKY CINEMA HITS 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skycinemahits.png" group-title="[UK] MOVIES",[UK] SKY CINEMA HITS 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100948
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="[UK] SKY CINEMA HITS HD" tvg-logo="https://img.logo-cdn.cc/skycinemahits.png" group-title="[UK] MOVIES",[UK] SKY CINEMA HITS HD
+http://line.4k-beast.co:80/03F69C/D09123/745671
+#EXTINF:-1 tvg-ID="skyhits.uk" tvg-name="[UK] SKY CINEMA HITS SD" tvg-logo="https://img.logo-cdn.cc/skycinemahits.png" group-title="[UK] MOVIES",[UK] SKY CINEMA HITS SD
+http://line.4k-beast.co:80/03F69C/D09123/100961
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY CINEMA ANIMATION 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skycinemaanimation.png" group-title="[UK] MOVIES",[UK] SKY CINEMA ANIMATION 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/197793
+#EXTINF:-1 tvg-ID="skyanimation.uk" tvg-name="[UK] SKY CINEMA ANIMATION HD" tvg-logo="https://img.logo-cdn.cc/skycinemaanimation.png" group-title="[UK] MOVIES",[UK] SKY CINEMA ANIMATION HD
+http://line.4k-beast.co:80/03F69C/D09123/745672
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="[UK] TCM 4K ? rec" tvg-logo="https://img.logo-cdn.cc/tcm.png" group-title="[UK] MOVIES",[UK] TCM 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100949
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="[UK] FILM 4 HD" tvg-logo="https://img.logo-cdn.cc/film4.png" group-title="[UK] MOVIES",[UK] FILM 4 HD
+http://line.4k-beast.co:80/03F69C/D09123/745674
+#EXTINF:-1 tvg-ID="film4.uk" tvg-name="[UK] FILM 4 SD" tvg-logo="https://img.logo-cdn.cc/film4.png" group-title="[UK] MOVIES",[UK] FILM 4 SD
+http://line.4k-beast.co:80/03F69C/D09123/100969
+#EXTINF:-1 tvg-ID="syfy.uk" tvg-name="[UK] SYFY 4K ? rec" tvg-logo="https://img.logo-cdn.cc/syfy.png" group-title="[UK] MOVIES",[UK] SYFY 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/100771
+#EXTINF:-1 tvg-ID="syfy.uk" tvg-name="[UK] SYFY SD" tvg-logo="https://img.logo-cdn.cc/syfy.png" group-title="[UK] MOVIES",[UK] SYFY SD
+http://line.4k-beast.co:80/03F69C/D09123/100794
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] GREAT! TV SD" tvg-logo="https://img.logo-cdn.cc/greattv.png" group-title="[UK] MOVIES",[UK] GREAT! TV SD
+http://line.4k-beast.co:80/03F69C/D09123/796589
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] GREAT! MOVIES SD" tvg-logo="https://img.logo-cdn.cc/greattv.png" group-title="[UK] MOVIES",[UK] GREAT! MOVIES SD
+http://line.4k-beast.co:80/03F69C/D09123/796590
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] GREAT! CLASSIC SD" tvg-logo="https://img.logo-cdn.cc/greattv.png" group-title="[UK] MOVIES",[UK] GREAT! CLASSIC SD
+http://line.4k-beast.co:80/03F69C/D09123/796597
+#EXTINF:-1 tvg-ID="syfy.uk" tvg-name="[UK] SYFY HD" tvg-logo="https://img.logo-cdn.cc/syfy.png" group-title="[UK] MOVIES",[UK] SYFY HD
+http://line.4k-beast.co:80/03F69C/D09123/745675
+#EXTINF:-1 tvg-ID="horrorchannel.uk" tvg-name="[UK] HORROR CHANNEL SD" tvg-logo="https://img.logo-cdn.cc/horrorchannel.png" group-title="[UK] MOVIES",[UK] HORROR CHANNEL SD
+http://line.4k-beast.co:80/03F69C/D09123/100970
+#EXTINF:-1 tvg-ID="cartoonnetwork.uk" tvg-name="[UK] CARTOON NETWORK 4K" tvg-logo="https://img.logo-cdn.cc/cartoonnetwork.png" group-title="[UK] KIDS",[UK] CARTOON NETWORK 4K
+http://line.4k-beast.co:80/03F69C/D09123/100912
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] CARTOON NETWORK HD" tvg-logo="https://img.logo-cdn.cc/cartoonnetwork.png" group-title="[UK] KIDS",[UK] CARTOON NETWORK HD
+http://line.4k-beast.co:80/03F69C/D09123/745642
+#EXTINF:-1 tvg-ID="cartoonnetwork.uk" tvg-name="[UK] CARTOON NETWORK SD" tvg-logo="https://img.logo-cdn.cc/cartoonnetwork.png" group-title="[UK] KIDS",[UK] CARTOON NETWORK SD
+http://line.4k-beast.co:80/03F69C/D09123/100924
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] DISNEY JUNIOR HD" tvg-logo="https://img.logo-cdn.cc/disneyjunior.png" group-title="[UK] KIDS",[UK] DISNEY JUNIOR HD
+http://line.4k-beast.co:80/03F69C/D09123/745644
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] DISNEY XD HD" tvg-logo="https://img.logo-cdn.cc//disneyxd.png" group-title="[UK] KIDS",[UK] DISNEY XD HD
+http://line.4k-beast.co:80/03F69C/D09123/1289406
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY KIDS 4K" tvg-logo="https://img.logo-cdn.cc/skykids.png" group-title="[UK] KIDS",[UK] SKY KIDS 4K
+http://line.4k-beast.co:80/03F69C/D09123/771667
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY KIDS HD" tvg-logo="https://img.logo-cdn.cc/skykids.png" group-title="[UK] KIDS",[UK] SKY KIDS HD
+http://line.4k-beast.co:80/03F69C/D09123/771668
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY KIDS SD" tvg-logo="https://img.logo-cdn.cc/skykids.png" group-title="[UK] KIDS",[UK] SKY KIDS SD
+http://line.4k-beast.co:80/03F69C/D09123/771669
+#EXTINF:-1 tvg-ID="nickelodeon.uk" tvg-name="[UK] NICKELODEON SD" tvg-logo="https://img.logo-cdn.cc//disneyxd.png" group-title="[UK] KIDS",[UK] NICKELODEON SD
+http://line.4k-beast.co:80/03F69C/D09123/100932
+#EXTINF:-1 tvg-ID="cbeebies.uk" tvg-name="[UK] CBEEBIES 4K" tvg-logo="https://img.logo-cdn.cc/cbeebies.png" group-title="[UK] KIDS",[UK] CBEEBIES 4K
+http://line.4k-beast.co:80/03F69C/D09123/100919
+#EXTINF:-1 tvg-ID="cbeebies.uk" tvg-name="[UK] CBEEBIES HD" tvg-logo="https://img.logo-cdn.cc/cbeebies.png" group-title="[UK] KIDS",[UK] CBEEBIES HD
+http://line.4k-beast.co:80/03F69C/D09123/745646
+#EXTINF:-1 tvg-ID="babytv.uk" tvg-name="[UK] BABY TV SD" tvg-logo="https://img.logo-cdn.cc/babytv.png" group-title="[UK] KIDS",[UK] BABY TV SD
+http://line.4k-beast.co:80/03F69C/D09123/100921
+#EXTINF:-1 tvg-ID="boomerang.uk" tvg-name="[UK] BOOMERANG SD" tvg-logo="https://img.logo-cdn.cc/boomerang.png" group-title="[UK] KIDS",[UK] BOOMERANG SD
+http://line.4k-beast.co:80/03F69C/D09123/100922
+#EXTINF:-1 tvg-ID="cartoonito.uk" tvg-name="[UK] CARTOONITO SD (NOT 24)" tvg-logo="https://img.logo-cdn.cc/cartoonito.png" group-title="[UK] KIDS",[UK] CARTOONITO SD (NOT 24)
+http://line.4k-beast.co:80/03F69C/D09123/100923
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="[UK] NICK JR PEPPA SD" tvg-logo="https://img.logo-cdn.cc/nickjrpeppa.png" group-title="[UK] KIDS",[UK] NICK JR PEPPA SD
+http://line.4k-beast.co:80/03F69C/D09123/100930
+#EXTINF:-1 tvg-ID="nickjunior.uk" tvg-name="[UK] NICK JUNIOR SD" tvg-logo="https://img.logo-cdn.cc/nickjr.png" group-title="[UK] KIDS",[UK] NICK JUNIOR SD
+http://line.4k-beast.co:80/03F69C/D09123/100931
+#EXTINF:-1 tvg-ID="nicktoons.uk" tvg-name="[UK] NICKTOONS SD" tvg-logo="https://img.logo-cdn.cc/nicktoons.png" group-title="[UK] KIDS",[UK] NICKTOONS SD
+http://line.4k-beast.co:80/03F69C/D09123/100933
+#EXTINF:-1 tvg-ID="tinypop.uk" tvg-name="[UK] TINY POP SD" tvg-logo="https://img.logo-cdn.cc/tinypop.png" group-title="[UK] KIDS",[UK] TINY POP SD
+http://line.4k-beast.co:80/03F69C/D09123/100934
+#EXTINF:-1 tvg-ID="tinypopplus1.uk" tvg-name="[UK] TINY POP+1 SD" tvg-logo="https://img.logo-cdn.cc/tinypop.png" group-title="[UK] KIDS",[UK] TINY POP+1 SD
+http://line.4k-beast.co:80/03F69C/D09123/101151
+#EXTINF:-1 tvg-ID="mtv.uk" tvg-name="[UK] MTV 4K" tvg-logo="https://img.logo-cdn.cc/mtvhd.png" group-title="[UK] MUSIC",[UK] MTV 4K
+http://line.4k-beast.co:80/03F69C/D09123/101099
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MTV LIVE FHD" tvg-logo="https://img.logo-cdn.cc/mtvhd.png" group-title="[UK] MUSIC",[UK] MTV LIVE FHD
+http://line.4k-beast.co:80/03F69C/D09123/101100
+#EXTINF:-1 tvg-ID="mtvbase.uk" tvg-name="[UK] MTV BASE SD" tvg-logo="https://img.logo-cdn.cc/mtvbase.png" group-title="[UK] MUSIC",[UK] MTV BASE SD
+http://line.4k-beast.co:80/03F69C/D09123/101109
+#EXTINF:-1 tvg-ID="mtvclassic.uk" tvg-name="[UK] MTV CLASSIC SD" tvg-logo="https://img.logo-cdn.cc/mtvclassic.png" group-title="[UK] MUSIC",[UK] MTV CLASSIC SD
+http://line.4k-beast.co:80/03F69C/D09123/101110
+#EXTINF:-1 tvg-ID="mtvhits.uk" tvg-name="[UK] MTV HITS SD" tvg-logo="https://img.logo-cdn.cc/mtvhits.png" group-title="[UK] MUSIC",[UK] MTV HITS SD
+http://line.4k-beast.co:80/03F69C/D09123/101112
+#EXTINF:-1 tvg-ID="mtvmusic.uk" tvg-name="[UK] MTV MUSIC SD" tvg-logo="https://img.logo-cdn.cc/mtvhd.png" group-title="[UK] MUSIC",[UK] MTV MUSIC SD
+http://line.4k-beast.co:80/03F69C/D09123/101113
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MTV LIVE SD" tvg-logo="https://img.logo-cdn.cc/mtvhd.png" group-title="[UK] MUSIC",[UK] MTV LIVE SD
+http://line.4k-beast.co:80/03F69C/D09123/101115
+#EXTINF:-1 tvg-ID="clublandtv.uk" tvg-name="[UK] CLUBLAND SD" tvg-logo="https://img.logo-cdn.cc/clublandtv.png" group-title="[UK] MUSIC",[UK] CLUBLAND SD
+http://line.4k-beast.co:80/03F69C/D09123/101104
+#EXTINF:-1 tvg-ID="kerrang.uk" tvg-name="[UK] KERRANG SD" tvg-logo="https://img.logo-cdn.cc/kerrang.png" group-title="[UK] MUSIC",[UK] KERRANG SD
+http://line.4k-beast.co:80/03F69C/D09123/101105
+#EXTINF:-1 tvg-ID="kisstv.uk" tvg-name="[UK] KISS TV SD" tvg-logo="https://img.logo-cdn.cc/kisstv.png" group-title="[UK] MUSIC",[UK] KISS TV SD
+http://line.4k-beast.co:80/03F69C/D09123/101106
+#EXTINF:-1 tvg-ID="magic.uk" tvg-name="[UK] MAGIC SD" tvg-logo="https://img.logo-cdn.cc/magic.png" group-title="[UK] MUSIC",[UK] MAGIC SD
+http://line.4k-beast.co:80/03F69C/D09123/101107
+#EXTINF:-1 tvg-ID="now80s.uk" tvg-name="[UK] NOW 80S SD" tvg-logo="https://img.logo-cdn.cc/now80s.png" group-title="[UK] MUSIC",[UK] NOW 80S SD
+http://line.4k-beast.co:80/03F69C/D09123/101117
+#EXTINF:-1 tvg-ID="pop.uk" tvg-name="[UK] POP SD" tvg-logo="https://img.logo-cdn.cc/pop.png" group-title="[UK] MUSIC",[UK] POP SD
+http://line.4k-beast.co:80/03F69C/D09123/101119
+#EXTINF:-1 tvg-ID="popmax.uk" tvg-name="[UK] POP MAX SD" tvg-logo="https://img.logo-cdn.cc/popmax.png" group-title="[UK] MUSIC",[UK] POP MAX SD
+http://line.4k-beast.co:80/03F69C/D09123/101120
+#EXTINF:-1 tvg-ID="vh1.uk" tvg-name="[UK] NOW 70 S SD" tvg-logo="https://img.logo-cdn.cc/now70s.png" group-title="[UK] MUSIC",[UK] NOW 70 S SD
+http://line.4k-beast.co:80/03F69C/D09123/101122
+#EXTINF:-1 tvg-ID="thebox.uk" tvg-name="[UK] THE BOX SD" tvg-logo="https://img.logo-cdn.cc/thebox.png" group-title="[UK] MUSIC",[UK] THE BOX SD
+http://line.4k-beast.co:80/03F69C/D09123/101124
+#EXTINF:-1 tvg-ID="4music.uk" tvg-name="[UK] 4 MUSIC SD" tvg-logo="https://img.logo-cdn.cc/4music.png" group-title="[UK] MUSIC",[UK] 4 MUSIC SD
+http://line.4k-beast.co:80/03F69C/D09123/101125
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TRACE VAULT SD" tvg-logo="https://img.logo-cdn.cc/tracevault.png" group-title="[UK] MUSIC",[UK] TRACE VAULT SD
+http://line.4k-beast.co:80/03F69C/D09123/206000
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SPOTLIGHT SD" tvg-logo="https://img.logo-cdn.cc//spotlighttv.png" group-title="[UK] MUSIC",[UK] SPOTLIGHT SD
+http://line.4k-beast.co:80/03F69C/D09123/1289458
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC 90S SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC 90S SD
+http://line.4k-beast.co:80/03F69C/D09123/206040
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC ALTERNATIVE SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC ALTERNATIVE SD
+http://line.4k-beast.co:80/03F69C/D09123/206041
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC BRITISH HITS SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC BRITISH HITS SD
+http://line.4k-beast.co:80/03F69C/D09123/206042
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC DANCE/ EDM SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC DANCE/ EDM SD
+http://line.4k-beast.co:80/03F69C/D09123/206043
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC HIT LIST SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC HIT LIST SD
+http://line.4k-beast.co:80/03F69C/D09123/206045
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC INDIE SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC INDIE SD
+http://line.4k-beast.co:80/03F69C/D09123/206047
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC KIDZ ONLY! SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC KIDZ ONLY! SD
+http://line.4k-beast.co:80/03F69C/D09123/206049
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC METAL SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC METAL SD
+http://line.4k-beast.co:80/03F69C/D09123/206050
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC MEXICANA SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC MEXICANA SD
+http://line.4k-beast.co:80/03F69C/D09123/206051
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC POP HITS SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC POP HITS SD
+http://line.4k-beast.co:80/03F69C/D09123/206053
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC POP LATINO SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC POP LATINO SD
+http://line.4k-beast.co:80/03F69C/D09123/206054
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC R&B SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC R&B SD
+http://line.4k-beast.co:80/03F69C/D09123/206055
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC R&B SOUL SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC R&B SOUL SD
+http://line.4k-beast.co:80/03F69C/D09123/206056
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC RAP 2K SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC RAP 2K SD
+http://line.4k-beast.co:80/03F69C/D09123/206058
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC ROCK SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC ROCK SD
+http://line.4k-beast.co:80/03F69C/D09123/206059
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC TODAYS COUNTRY SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC TODAYS COUNTRY SD
+http://line.4k-beast.co:80/03F69C/D09123/206063
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC TODDLER TUNES SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC TODDLER TUNES SD
+http://line.4k-beast.co:80/03F69C/D09123/206064
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC Y2K SD" tvg-logo="https://img.logo-cdn.cc/mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC Y2K SD
+http://line.4k-beast.co:80/03F69C/D09123/206066
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC POP & COUNTRY SD" tvg-logo="https://img.logo-cdn.cc//mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC POP & COUNTRY SD
+http://line.4k-beast.co:80/03F69C/D09123/1289459
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] MC MUSIC POP LATINO SD" tvg-logo="https://img.logo-cdn.cc//mcmusic.png" group-title="[UK] MUSIC",[UK] MC MUSIC POP LATINO SD
+http://line.4k-beast.co:80/03F69C/D09123/1289462
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] FLIX HIGHLIGHTS PREMIER LEAGUE" tvg-logo="https://img.logo-cdn.cc/flixoriginal.png" group-title="[UK] SPORTS",[UK] FLIX HIGHLIGHTS PREMIER LEAGUE
+http://line.4k-beast.co:80/03F69C/D09123/1332797
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] BEIN SPORTS NEWS HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS NEWS HD
+http://line.4k-beast.co:80/03F69C/D09123/735200
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="[UK] BEIN SPORT GLOBAL HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORT GLOBAL HD
+http://line.4k-beast.co:80/03F69C/D09123/112437
+#EXTINF:-1 tvg-ID="beinsportsnba.qa" tvg-name="[UK] BEIN SPORTS NBA HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS NBA HD
+http://line.4k-beast.co:80/03F69C/D09123/112438
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="[UK] BEIN SPORTS 1 ENGLISH FHD S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 1 ENGLISH FHD S1
+http://line.4k-beast.co:80/03F69C/D09123/112452
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="[UK] BEIN SPORTS 1 ENGLISH FHD S2" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 1 ENGLISH FHD S2
+http://line.4k-beast.co:80/03F69C/D09123/762820
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="[UK] BEIN SPORTS 1 ENGLISH FHD S3" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 1 ENGLISH FHD S3
+http://line.4k-beast.co:80/03F69C/D09123/762823
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="[UK] BEIN SPORTS 2 ENGLISH FHD S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 2 ENGLISH FHD S1
+http://line.4k-beast.co:80/03F69C/D09123/112453
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] BEIN SPORTS 2 ENGLISH FHD S2" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 2 ENGLISH FHD S2
+http://line.4k-beast.co:80/03F69C/D09123/762821
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="[UK] BEIN SPORTS 2 ENGLISH FHD S3" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 2 ENGLISH FHD S3
+http://line.4k-beast.co:80/03F69C/D09123/762825
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="[UK] BEIN SPORTS 1 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 1 FHD
+http://line.4k-beast.co:80/03F69C/D09123/112449
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="[UK] BEIN SPORTS 2 FHD " tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 2 FHD 
+http://line.4k-beast.co:80/03F69C/D09123/112450
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="[UK] BEIN SPORTS 3 FHD " tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 3 FHD 
+http://line.4k-beast.co:80/03F69C/D09123/112451
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="[UK] BEIN SPORTS 4 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 4 FHD
+http://line.4k-beast.co:80/03F69C/D09123/112443
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="[UK] BEIN SPORTS 5 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 5 FHD
+http://line.4k-beast.co:80/03F69C/D09123/112444
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="[UK] BEIN SPORTS 6 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 6 FHD
+http://line.4k-beast.co:80/03F69C/D09123/112445
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="[UK] BEIN SPORTS 7 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 7 FHD
+http://line.4k-beast.co:80/03F69C/D09123/112446
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] BEIN SPORTS 8 FHD " tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 8 FHD 
+http://line.4k-beast.co:80/03F69C/D09123/899112
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] BEIN SPORTS 9 FHD " tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 9 FHD 
+http://line.4k-beast.co:80/03F69C/D09123/899113
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] BEIN SPORTS 1 XTRA FHD " tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 1 XTRA FHD 
+http://line.4k-beast.co:80/03F69C/D09123/899114
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] BEIN SPORTS 2 XTRA FHD " tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 2 XTRA FHD 
+http://line.4k-beast.co:80/03F69C/D09123/899115
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] BEIN SPORTS 3 XTRA FHD " tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="[UK] SPORTS",[UK] BEIN SPORTS 3 XTRA FHD 
+http://line.4k-beast.co:80/03F69C/D09123/899116
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="[UK] SKY SPORTS NEWS 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS NEWS 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101042
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="[UK] SKY SPORTS NEWS HD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS NEWS HD
+http://line.4k-beast.co:80/03F69C/D09123/101019
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY SPORTS NEWS SD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS NEWS SD
+http://line.4k-beast.co:80/03F69C/D09123/747380
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="[UK] SKY SPORTS ACTION 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS ACTION 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101043
+#EXTINF:-1 tvg-ID="skysportsaction.uk" tvg-name="[UK] SKY SPORTS ACTION HD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS ACTION HD
+http://line.4k-beast.co:80/03F69C/D09123/101020
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY SPORTS ACTION SD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS ACTION SD
+http://line.4k-beast.co:80/03F69C/D09123/747379
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="[UK] SKY SPORTS FOOTBALL 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS FOOTBALL 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101044
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="[UK] SKY SPORTS FOOTBALL HD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS FOOTBALL HD
+http://line.4k-beast.co:80/03F69C/D09123/101021
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY SPORTS FOOTBALL SD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS FOOTBALL SD
+http://line.4k-beast.co:80/03F69C/D09123/747378
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="[UK] SKY SPORTS PREMIER LEAGUE 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS PREMIER LEAGUE 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101045
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="[UK] SKY SPORTS PREMIER LEAGUE HD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS PREMIER LEAGUE HD
+http://line.4k-beast.co:80/03F69C/D09123/101022
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY SPORTS PREMIER LEAGUE SD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS PREMIER LEAGUE SD
+http://line.4k-beast.co:80/03F69C/D09123/747374
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="[UK] SKY SPORTS MAIN EVENT 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS MAIN EVENT 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/103112
+#EXTINF:-1 tvg-ID="skysportsmainevent.uk" tvg-name="[UK] SKY SPORTS MAIN EVENT HD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS MAIN EVENT HD
+http://line.4k-beast.co:80/03F69C/D09123/101023
+#EXTINF:-1 tvg-ID="" tvg-name="UK] SKY SPORTS MAIN EVENT SD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",UK] SKY SPORTS MAIN EVENT SD
+http://line.4k-beast.co:80/03F69C/D09123/747363
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="[UK] SKY SPORTS MIX 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS MIX 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/103109
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="[UK] SKY SPORTS MIX HD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS MIX HD
+http://line.4k-beast.co:80/03F69C/D09123/746011
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="[UK] SKY SPORTS MIX SD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS MIX SD
+http://line.4k-beast.co:80/03F69C/D09123/103111
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="[UK] SKY SPORTS RACING 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS RACING 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101047
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="[UK] SKY SPORTS RACING HD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS RACING HD
+http://line.4k-beast.co:80/03F69C/D09123/746012
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="[UK] SKY SPORTS RACING SD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS RACING SD
+http://line.4k-beast.co:80/03F69C/D09123/101074
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="[UK] SKY SPORTS ARENA 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS ARENA 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101049
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="[UK] SKY SPORTS ARENA HD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS ARENA HD
+http://line.4k-beast.co:80/03F69C/D09123/101024
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY SPORTS ARENA SD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS ARENA SD
+http://line.4k-beast.co:80/03F69C/D09123/747368
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY SPORTS TENNIS 4K" tvg-logo="https://img.logo-cdn.cc/skysportshd.png" group-title="[UK] SPORTS",[UK] SKY SPORTS TENNIS 4K
+http://line.4k-beast.co:80/03F69C/D09123/1341720
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY SPORTS TENNIS HD" tvg-logo="https://img.logo-cdn.cc/skysportshd.png" group-title="[UK] SPORTS",[UK] SKY SPORTS TENNIS HD
+http://line.4k-beast.co:80/03F69C/D09123/1341721
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY SPORTS TENNIS SD" tvg-logo="https://img.logo-cdn.cc/skysportshd.png" group-title="[UK] SPORTS",[UK] SKY SPORTS TENNIS SD
+http://line.4k-beast.co:80/03F69C/D09123/1341722
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="[UK] SKY SPORTS CRICKET 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS CRICKET 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101050
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="[UK] SKY SPORTS CRICKET HD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS CRICKET HD
+http://line.4k-beast.co:80/03F69C/D09123/101025
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY SPORTS CRICKET SD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS CRICKET SD
+http://line.4k-beast.co:80/03F69C/D09123/747367
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="[UK] SKY SPORTS F1 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS F1 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101051
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="[UK] SKY SPORTS F1 HD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS F1 HD
+http://line.4k-beast.co:80/03F69C/D09123/101026
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY SPORTS F1 SD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS F1 SD
+http://line.4k-beast.co:80/03F69C/D09123/747366
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="[UK] SKY SPORTS GOLF 4K ? rec" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS GOLF 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101052
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="[UK] SKY SPORTS GOLF HD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS GOLF HD
+http://line.4k-beast.co:80/03F69C/D09123/101027
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SKY SPORTS GOLF SD" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="[UK] SPORTS",[UK] SKY SPORTS GOLF SD
+http://line.4k-beast.co:80/03F69C/D09123/747365
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SPORTY STUFF HD" tvg-logo="https://img.logo-cdn.cc/sportystufftv.png" group-title="[UK] SPORTS",[UK] SPORTY STUFF HD
+http://line.4k-beast.co:80/03F69C/D09123/771641
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="[UK] TNT SPORTS 1 4K ? rec" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 1 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/205999
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="[UK] TNT SPORTS 1 HD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 1 HD
+http://line.4k-beast.co:80/03F69C/D09123/103142
+#EXTINF:-1 tvg-ID="btsport1.uk" tvg-name="[UK] TNT SPORTS 1 SD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 1 SD
+http://line.4k-beast.co:80/03F69C/D09123/103144
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="[UK] TNT SPORTS 2 4K ? rec" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 2 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/103146
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="[UK] TNT SPORTS 2  HD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 2  HD
+http://line.4k-beast.co:80/03F69C/D09123/103145
+#EXTINF:-1 tvg-ID="btsport2.uk" tvg-name="[UK] TNT SPORTS 2 SD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 2 SD
+http://line.4k-beast.co:80/03F69C/D09123/103147
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="[UK] TNT SPORTS 3 4K" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 3 4K
+http://line.4k-beast.co:80/03F69C/D09123/103149
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="[UK] TNT SPORTS 3 HD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 3 HD
+http://line.4k-beast.co:80/03F69C/D09123/103148
+#EXTINF:-1 tvg-ID="btsport3.uk" tvg-name="[UK] TNT SPORTS 3 SD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 3 SD
+http://line.4k-beast.co:80/03F69C/D09123/103150
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TNT SPORTS 4 4K" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 4 4K
+http://line.4k-beast.co:80/03F69C/D09123/670669
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TNT SPORTS 4 SD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 4 SD
+http://line.4k-beast.co:80/03F69C/D09123/670678
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TNT SPORTS 5 4K" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 5 4K
+http://line.4k-beast.co:80/03F69C/D09123/670671
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TNT SPORTS 5 SD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 5 SD
+http://line.4k-beast.co:80/03F69C/D09123/670672
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TNT SPORTS 6 SD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 6 SD
+http://line.4k-beast.co:80/03F69C/D09123/670673
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TNT SPORTS 7 SD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 7 SD
+http://line.4k-beast.co:80/03F69C/D09123/670674
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TNT SPORTS 8 SD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 8 SD
+http://line.4k-beast.co:80/03F69C/D09123/670675
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TNT SPORTS 9 SD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 9 SD
+http://line.4k-beast.co:80/03F69C/D09123/670676
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] TNT SPORTS 10 SD" tvg-logo="https://img.logo-cdn.cc/btsport.png" group-title="[UK] SPORTS",[UK] TNT SPORTS 10 SD
+http://line.4k-beast.co:80/03F69C/D09123/670677
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] DAZN 1 HD" tvg-logo="https://img.logo-cdn.cc/dazn1.png" group-title="[UK] SPORTS",[UK] DAZN 1 HD
+http://line.4k-beast.co:80/03F69C/D09123/787620
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="[UK] EUROSPORTS 1 4K ? rec" tvg-logo="https://img.logo-cdn.cc/eurosport1hd.png" group-title="[UK] SPORTS",[UK] EUROSPORTS 1 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101057
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="[UK] EUROSPORT 1 HD" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" group-title="[UK] SPORTS",[UK] EUROSPORT 1 HD
+http://line.4k-beast.co:80/03F69C/D09123/745687
+#EXTINF:-1 tvg-ID="eurosport1.uk" tvg-name="[UK] EUROSPORT 1 SD" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" group-title="[UK] SPORTS",[UK] EUROSPORT 1 SD
+http://line.4k-beast.co:80/03F69C/D09123/101089
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="[UK] EUROSPORTS 2 4K ? rec" tvg-logo="https://img.logo-cdn.cc/eurosport2hd.png" group-title="[UK] SPORTS",[UK] EUROSPORTS 2 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101058
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="[UK] EUROSPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" group-title="[UK] SPORTS",[UK] EUROSPORT 2 HD
+http://line.4k-beast.co:80/03F69C/D09123/745688
+#EXTINF:-1 tvg-ID="eurosport2.uk" tvg-name="[UK] EUROSPORT 2 SD" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" group-title="[UK] SPORTS",[UK] EUROSPORT 2 SD
+http://line.4k-beast.co:80/03F69C/D09123/101090
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="[UK] LFC 4K ? rec" tvg-logo="https://img.logo-cdn.cc/lfc.png" group-title="[UK] SPORTS",[UK] LFC 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101063
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="[UK] LFC HD" tvg-logo="https://img.logo-cdn.cc/lfc.png" group-title="[UK] SPORTS",[UK] LFC HD
+http://line.4k-beast.co:80/03F69C/D09123/745690
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="[UK] LFC TV SD" tvg-logo="https://img.logo-cdn.cc/lfc.png" group-title="[UK] SPORTS",[UK] LFC TV SD
+http://line.4k-beast.co:80/03F69C/D09123/101093
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="[UK] PREMIER SPORTS 4K ? rec" tvg-logo="https://img.logo-cdn.cc/premiersport.png" group-title="[UK] SPORTS",[UK] PREMIER SPORTS 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101064
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="[UK] PREMIER SPORTS HD" tvg-logo="https://img.logo-cdn.cc/premiersport.png" group-title="[UK] SPORTS",[UK] PREMIER SPORTS HD
+http://line.4k-beast.co:80/03F69C/D09123/745691
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="[UK] PREMIER SPORTS SD" tvg-logo="https://img.logo-cdn.cc/premiersports.png" group-title="[UK] SPORTS",[UK] PREMIER SPORTS SD
+http://line.4k-beast.co:80/03F69C/D09123/101095
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="[UK] PREMIER SPORTS 2 4K ? rec" tvg-logo="https://img.logo-cdn.cc/premiersport2.png" group-title="[UK] SPORTS",[UK] PREMIER SPORTS 2 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101065
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="[UK] PREMIER SPORTS 2 HD" tvg-logo="https://img.logo-cdn.cc/premiersport2.png" group-title="[UK] SPORTS",[UK] PREMIER SPORTS 2 HD
+http://line.4k-beast.co:80/03F69C/D09123/745692
+#EXTINF:-1 tvg-ID="premiersports2.uk" tvg-name="[UK] PREMIER SPORTS 2 SD" tvg-logo="https://img.logo-cdn.cc/premiersports2.png" group-title="[UK] SPORTS",[UK] PREMIER SPORTS 2 SD
+http://line.4k-beast.co:80/03F69C/D09123/101096
+#EXTINF:-1 tvg-ID="racinguk.uk" tvg-name="[UK] RACING UK 4K ? rec" tvg-logo="https://img.logo-cdn.cc/racinguk.png" group-title="[UK] SPORTS",[UK] RACING UK 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101066
+#EXTINF:-1 tvg-ID="racinguk.uk" tvg-name="[UK] RACING UK HD" tvg-logo="https://img.logo-cdn.cc/racinguk.png" group-title="[UK] SPORTS",[UK] RACING UK HD
+http://line.4k-beast.co:80/03F69C/D09123/745693
+#EXTINF:-1 tvg-ID="racinguk.uk" tvg-name="[UK] RACING UK SD" tvg-logo="https://img.logo-cdn.cc/racinguk.png" group-title="[UK] SPORTS",[UK] RACING UK SD
+http://line.4k-beast.co:80/03F69C/D09123/101097
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="[UK] MUTV 4K ? rec" tvg-logo="https://img.logo-cdn.cc/mutv.png" group-title="[UK] SPORTS",[UK] MUTV 4K ? rec
+http://line.4k-beast.co:80/03F69C/D09123/101067
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="[UK] MUTV HD" tvg-logo="https://img.logo-cdn.cc/mutv.png" group-title="[UK] SPORTS",[UK] MUTV HD
+http://line.4k-beast.co:80/03F69C/D09123/745694
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] CELTIC TV FHD (LIVE ON MATCHES)" tvg-logo="https://img.logo-cdn.cc/celtictv.png" group-title="[UK] SPORTS",[UK] CELTIC TV FHD (LIVE ON MATCHES)
+http://line.4k-beast.co:80/03F69C/D09123/197102
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| Rangers FC TV HD" tvg-logo="https://img.logo-cdn.cc/rtv.png" group-title="[UK] SPORTS",|UK| Rangers FC TV HD
+http://line.4k-beast.co:80/03F69C/D09123/292939
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] HUB PREMIER 1 HD" tvg-logo="" group-title="[UK] SPORTS",[UK] HUB PREMIER 1 HD
+http://line.4k-beast.co:80/03F69C/D09123/1289436
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] HUB PREMIER 2 HD" tvg-logo="" group-title="[UK] SPORTS",[UK] HUB PREMIER 2 HD
+http://line.4k-beast.co:80/03F69C/D09123/1289440
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] HUB PREMIER 3 HD" tvg-logo="" group-title="[UK] SPORTS",[UK] HUB PREMIER 3 HD
+http://line.4k-beast.co:80/03F69C/D09123/1289441
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] HUB PREMIER 4 HD" tvg-logo="" group-title="[UK] SPORTS",[UK] HUB PREMIER 4 HD
+http://line.4k-beast.co:80/03F69C/D09123/1289443
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] HUB PREMIER 5 HD" tvg-logo="" group-title="[UK] SPORTS",[UK] HUB PREMIER 5 HD
+http://line.4k-beast.co:80/03F69C/D09123/1289444
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] HUB PREMIER 6 HD" tvg-logo="" group-title="[UK] SPORTS",[UK] HUB PREMIER 6 HD
+http://line.4k-beast.co:80/03F69C/D09123/1289445
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] HUB PREMIER 7 HD" tvg-logo="" group-title="[UK] SPORTS",[UK] HUB PREMIER 7 HD
+http://line.4k-beast.co:80/03F69C/D09123/1289447
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] HUB PREMIER 8 HD" tvg-logo="" group-title="[UK] SPORTS",[UK] HUB PREMIER 8 HD
+http://line.4k-beast.co:80/03F69C/D09123/1289448
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] HUB PREMIER 9 HD" tvg-logo="" group-title="[UK] SPORTS",[UK] HUB PREMIER 9 HD
+http://line.4k-beast.co:80/03F69C/D09123/1289449
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] HUB PREMIER 10 HD" tvg-logo="" group-title="[UK] SPORTS",[UK] HUB PREMIER 10 HD
+http://line.4k-beast.co:80/03F69C/D09123/1289451
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] HUB PREMIER 11 HD" tvg-logo="" group-title="[UK] SPORTS",[UK] HUB PREMIER 11 HD
+http://line.4k-beast.co:80/03F69C/D09123/1289452
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT VARIETY 1 HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT VARIETY 1 HD
+http://line.4k-beast.co:80/03F69C/D09123/248275
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT VARIETY 2 HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT VARIETY 2 HD
+http://line.4k-beast.co:80/03F69C/D09123/248279
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT VARIETY 3 HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT VARIETY 3 HD
+http://line.4k-beast.co:80/03F69C/D09123/248280
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT VARIETY 4 HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT VARIETY 4 HD
+http://line.4k-beast.co:80/03F69C/D09123/248281
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT PREMIER LEAGUE HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT PREMIER LEAGUE HD
+http://line.4k-beast.co:80/03F69C/D09123/248283
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT LALIGA HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT LALIGA HD
+http://line.4k-beast.co:80/03F69C/D09123/248284
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT FOOTBALL HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT FOOTBALL HD
+http://line.4k-beast.co:80/03F69C/D09123/248285
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT TENNIS HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT TENNIS HD
+http://line.4k-beast.co:80/03F69C/D09123/248276
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT RUGBY HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT RUGBY HD
+http://line.4k-beast.co:80/03F69C/D09123/248277
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT CRICKET HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT CRICKET HD
+http://line.4k-beast.co:80/03F69C/D09123/248278
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT GOLF HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT GOLF HD
+http://line.4k-beast.co:80/03F69C/D09123/248287
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT MOTOSPORT HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT MOTOSPORT HD
+http://line.4k-beast.co:80/03F69C/D09123/248272
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT PLAY HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT PLAY HD
+http://line.4k-beast.co:80/03F69C/D09123/248273
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT BLITZ HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT BLITZ HD
+http://line.4k-beast.co:80/03F69C/D09123/248286
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT MAXIMO HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT MAXIMO HD
+http://line.4k-beast.co:80/03F69C/D09123/248288
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT ACTION HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT ACTION HD
+http://line.4k-beast.co:80/03F69C/D09123/746900
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT PSL HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT PSL HD
+http://line.4k-beast.co:80/03F69C/D09123/746898
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] SUPERSPORT GRANDSTAND HD" tvg-logo="https://img.logo-cdn.cc/supersporttennis.png" group-title="[UK] SPORTS",[UK] SUPERSPORT GRANDSTAND HD
+http://line.4k-beast.co:80/03F69C/D09123/746897
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ASTRO SUPERSPORT HD" tvg-logo="https://img.logo-cdn.cc/astrotv.png" group-title="[UK] SPORTS",[UK] ASTRO SUPERSPORT HD
+http://line.4k-beast.co:80/03F69C/D09123/556245
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ASTRO SUPERSPORT 2 HD" tvg-logo="https://img.logo-cdn.cc/astrotv.png" group-title="[UK] SPORTS",[UK] ASTRO SUPERSPORT 2 HD
+http://line.4k-beast.co:80/03F69C/D09123/556246
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ASTRO SUPERSPORT 3 HD" tvg-logo="https://img.logo-cdn.cc/astrotv.png" group-title="[UK] SPORTS",[UK] ASTRO SUPERSPORT 3 HD
+http://line.4k-beast.co:80/03F69C/D09123/556247
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] ASTRO SUPERSPORT 4 HD" tvg-logo="https://img.logo-cdn.cc/astrotv.png" group-title="[UK] SPORTS",[UK] ASTRO SUPERSPORT 4 HD
+http://line.4k-beast.co:80/03F69C/D09123/556248
+#EXTINF:-1 tvg-ID="" tvg-name="PPV 1:  MMA | Glory Heavyweight Grand Prix | Sat 9th Mar 5:00PM UK/12:00PM ET" tvg-logo="https://img.logo-cdn.cc/ppv.png" group-title="[UK] EVENTS",PPV 1:  MMA | Glory Heavyweight Grand Prix | Sat 9th Mar 5:00PM UK/12:00PM ET
+http://line.4k-beast.co:80/03F69C/D09123/101925
+#EXTINF:-1 tvg-ID="" tvg-name="PPV 2:  MMA | Glory Heavyweight Grand Prix | Sat 9th Mar 5:00PM UK/12:00PM ET" tvg-logo="https://img.logo-cdn.cc/ppv.png" group-title="[UK] EVENTS",PPV 2:  MMA | Glory Heavyweight Grand Prix | Sat 9th Mar 5:00PM UK/12:00PM ET
+http://line.4k-beast.co:80/03F69C/D09123/101926
+#EXTINF:-1 tvg-ID="" tvg-name="PPV 3:  MMA | Glory Heavyweight Grand Prix | Sat 9th Mar 5:00PM UK/12:00PM ET" tvg-logo="https://img.logo-cdn.cc/ppv.png" group-title="[UK] EVENTS",PPV 3:  MMA | Glory Heavyweight Grand Prix | Sat 9th Mar 5:00PM UK/12:00PM ET
+http://line.4k-beast.co:80/03F69C/D09123/101927
+#EXTINF:-1 tvg-ID="" tvg-name="PPV 4:  MMA | Glory Heavyweight Grand Prix | Sat 9th Mar 5:00PM UK/12:00PM ET" tvg-logo="https://img.logo-cdn.cc/ppv.png" group-title="[UK] EVENTS",PPV 4:  MMA | Glory Heavyweight Grand Prix | Sat 9th Mar 5:00PM UK/12:00PM ET
+http://line.4k-beast.co:80/03F69C/D09123/102872
+#EXTINF:-1 tvg-ID="" tvg-name="PPV 5 : " tvg-logo="https://img.logo-cdn.cc/ppv.png" group-title="[UK] EVENTS",PPV 5 : 
+http://line.4k-beast.co:80/03F69C/D09123/102873
+#EXTINF:-1 tvg-ID="" tvg-name="PPV 6 : " tvg-logo="https://img.logo-cdn.cc/ppv.png" group-title="[UK] EVENTS",PPV 6 : 
+http://line.4k-beast.co:80/03F69C/D09123/265303
+#EXTINF:-1 tvg-ID="" tvg-name="SPFL 01 : " tvg-logo="https://img.logo-cdn.cc//spfl.png" group-title="[UK] EVENTS",SPFL 01 : 
+http://line.4k-beast.co:80/03F69C/D09123/546776
+#EXTINF:-1 tvg-ID="" tvg-name="SPFL 02 : " tvg-logo="https://img.logo-cdn.cc//spfl.png" group-title="[UK] EVENTS",SPFL 02 : 
+http://line.4k-beast.co:80/03F69C/D09123/546777
+#EXTINF:-1 tvg-ID="" tvg-name="SPFL 03 : " tvg-logo="https://img.logo-cdn.cc//spfl.png" group-title="[UK] EVENTS",SPFL 03 : 
+http://line.4k-beast.co:80/03F69C/D09123/546778
+#EXTINF:-1 tvg-ID="" tvg-name="SPFL 04 : " tvg-logo="https://img.logo-cdn.cc//spfl.png" group-title="[UK] EVENTS",SPFL 04 : 
+http://line.4k-beast.co:80/03F69C/D09123/546779
+#EXTINF:-1 tvg-ID="" tvg-name="SPFL 05 : " tvg-logo="https://img.logo-cdn.cc//spfl.png" group-title="[UK] EVENTS",SPFL 05 : 
+http://line.4k-beast.co:80/03F69C/D09123/546780
+#EXTINF:-1 tvg-ID="" tvg-name="SPFL 06 : " tvg-logo="https://img.logo-cdn.cc//spfl.png" group-title="[UK] EVENTS",SPFL 06 : 
+http://line.4k-beast.co:80/03F69C/D09123/546781
+#EXTINF:-1 tvg-ID="" tvg-name="SPFL 07 : " tvg-logo="https://img.logo-cdn.cc//spfl.png" group-title="[UK] EVENTS",SPFL 07 : 
+http://line.4k-beast.co:80/03F69C/D09123/546782
+#EXTINF:-1 tvg-ID="" tvg-name="EPL 1 : " tvg-logo="https://img.logo-cdn.cc//ifollow.png" group-title="[UK] PREMIER LEAGUE",EPL 1 : 
+http://line.4k-beast.co:80/03F69C/D09123/670680
+#EXTINF:-1 tvg-ID="" tvg-name="EPL 2 : " tvg-logo="https://img.logo-cdn.cc//ifollow.png" group-title="[UK] PREMIER LEAGUE",EPL 2 : 
+http://line.4k-beast.co:80/03F69C/D09123/670681
+#EXTINF:-1 tvg-ID="" tvg-name="EPL 3 : " tvg-logo="https://img.logo-cdn.cc//ifollow.png" group-title="[UK] PREMIER LEAGUE",EPL 3 : 
+http://line.4k-beast.co:80/03F69C/D09123/670682
+#EXTINF:-1 tvg-ID="" tvg-name="EPL 4 : " tvg-logo="https://img.logo-cdn.cc//ifollow.png" group-title="[UK] PREMIER LEAGUE",EPL 4 : 
+http://line.4k-beast.co:80/03F69C/D09123/670683
+#EXTINF:-1 tvg-ID="" tvg-name="EPL 5 : " tvg-logo="https://img.logo-cdn.cc//ifollow.png" group-title="[UK] PREMIER LEAGUE",EPL 5 : 
+http://line.4k-beast.co:80/03F69C/D09123/670684
+#EXTINF:-1 tvg-ID="" tvg-name="EPL 6 : " tvg-logo="https://img.logo-cdn.cc//ifollow.png" group-title="[UK] PREMIER LEAGUE",EPL 6 : 
+http://line.4k-beast.co:80/03F69C/D09123/670685
+#EXTINF:-1 tvg-ID="" tvg-name="EPL 7 :" tvg-logo="https://img.logo-cdn.cc//ifollow.png" group-title="[UK] PREMIER LEAGUE",EPL 7 :
+http://line.4k-beast.co:80/03F69C/D09123/670686
+#EXTINF:-1 tvg-ID="" tvg-name="EPL 8 :" tvg-logo="https://img.logo-cdn.cc//ifollow.png" group-title="[UK] PREMIER LEAGUE",EPL 8 :
+http://line.4k-beast.co:80/03F69C/D09123/670687
+#EXTINF:-1 tvg-ID="" tvg-name="EPL 9:" tvg-logo="https://img.logo-cdn.cc//ifollow.png" group-title="[UK] PREMIER LEAGUE",EPL 9:
+http://line.4k-beast.co:80/03F69C/D09123/670688
+#EXTINF:-1 tvg-ID="" tvg-name="EPL 10:" tvg-logo="https://img.logo-cdn.cc//ifollow.png" group-title="[UK] PREMIER LEAGUE",EPL 10:
+http://line.4k-beast.co:80/03F69C/D09123/670689
+#EXTINF:-1 tvg-ID="" tvg-name="EPL 11:" tvg-logo="https://img.logo-cdn.cc//ifollow.png" group-title="[UK] PREMIER LEAGUE",EPL 11:
+http://line.4k-beast.co:80/03F69C/D09123/670690
+#EXTINF:-1 tvg-ID="" tvg-name="EPL 12:" tvg-logo="https://img.logo-cdn.cc//ifollow.png" group-title="[UK] PREMIER LEAGUE",EPL 12:
+http://line.4k-beast.co:80/03F69C/D09123/670691
+#EXTINF:-1 tvg-ID="" tvg-name="BIRMINGHAM CITY : " tvg-logo="https://img.logo-cdn.cc/birminghamtv.png" group-title="[UK] CHAMPIONSHIP",BIRMINGHAM CITY : 
+http://line.4k-beast.co:80/03F69C/D09123/661219
+#EXTINF:-1 tvg-ID="" tvg-name="BLACKBURN ROVERS : " tvg-logo="https://img.logo-cdn.cc/blackburnrovers.png" group-title="[UK] CHAMPIONSHIP",BLACKBURN ROVERS : 
+http://line.4k-beast.co:80/03F69C/D09123/661220
+#EXTINF:-1 tvg-ID="" tvg-name="MIDDLESBROUGH : " tvg-logo="https://img.logo-cdn.cc/middlesbrough.png" group-title="[UK] CHAMPIONSHIP",MIDDLESBROUGH : 
+http://line.4k-beast.co:80/03F69C/D09123/661221
+#EXTINF:-1 tvg-ID="" tvg-name="CARDIFF CITY : " tvg-logo="https://img.logo-cdn.cc/cardifftv.png" group-title="[UK] CHAMPIONSHIP",CARDIFF CITY : 
+http://line.4k-beast.co:80/03F69C/D09123/661222
+#EXTINF:-1 tvg-ID="" tvg-name="PLYMOUTH ARGYLE : " tvg-logo="https://img.logo-cdn.cc/plymouthargyle.png" group-title="[UK] CHAMPIONSHIP",PLYMOUTH ARGYLE : 
+http://line.4k-beast.co:80/03F69C/D09123/661223
+#EXTINF:-1 tvg-ID="" tvg-name="HULL CITY :  " tvg-logo="https://img.logo-cdn.cc/hullcity.png" group-title="[UK] CHAMPIONSHIP",HULL CITY :  
+http://line.4k-beast.co:80/03F69C/D09123/661224
+#EXTINF:-1 tvg-ID="" tvg-name="COVENTRY CITY : " tvg-logo="https://img.logo-cdn.cc/conventrycity.png" group-title="[UK] CHAMPIONSHIP",COVENTRY CITY : 
+http://line.4k-beast.co:80/03F69C/D09123/661225
+#EXTINF:-1 tvg-ID="" tvg-name="HUDDERSFIELD TOWN : " tvg-logo="https://img.logo-cdn.cc/huddersfieldtown.png" group-title="[UK] CHAMPIONSHIP",HUDDERSFIELD TOWN : 
+http://line.4k-beast.co:80/03F69C/D09123/661226
+#EXTINF:-1 tvg-ID="" tvg-name="BRISTOL CITY : " tvg-logo="https://img.logo-cdn.cc/bristoltv.png" group-title="[UK] CHAMPIONSHIP",BRISTOL CITY : 
+http://line.4k-beast.co:80/03F69C/D09123/661227
+#EXTINF:-1 tvg-ID="" tvg-name="SOUTHAMPTON : " tvg-logo="https://img.logo-cdn.cc/southampton.png" group-title="[UK] CHAMPIONSHIP",SOUTHAMPTON : 
+http://line.4k-beast.co:80/03F69C/D09123/661228
+#EXTINF:-1 tvg-ID="" tvg-name="WATFORD : " tvg-logo="https://img.logo-cdn.cc/watford.png" group-title="[UK] CHAMPIONSHIP",WATFORD : 
+http://line.4k-beast.co:80/03F69C/D09123/661229
+#EXTINF:-1 tvg-ID="" tvg-name="MILWALL : " tvg-logo="https://img.logo-cdn.cc/milwall.png" group-title="[UK] CHAMPIONSHIP",MILWALL : 
+http://line.4k-beast.co:80/03F69C/D09123/661230
+#EXTINF:-1 tvg-ID="" tvg-name="NORWICH CITY : " tvg-logo="https://img.logo-cdn.cc/norwichcity.png" group-title="[UK] CHAMPIONSHIP",NORWICH CITY : 
+http://line.4k-beast.co:80/03F69C/D09123/661231
+#EXTINF:-1 tvg-ID="" tvg-name="PRESTON NORTH END : " tvg-logo="https://img.logo-cdn.cc/prestonnorthend.png" group-title="[UK] CHAMPIONSHIP",PRESTON NORTH END : 
+http://line.4k-beast.co:80/03F69C/D09123/661232
+#EXTINF:-1 tvg-ID="" tvg-name="STOKE CITY : " tvg-logo="https://img.logo-cdn.cc/stokecity.png" group-title="[UK] CHAMPIONSHIP",STOKE CITY : 
+http://line.4k-beast.co:80/03F69C/D09123/661233
+#EXTINF:-1 tvg-ID="" tvg-name="IPSWICH TOWN : " tvg-logo="https://img.logo-cdn.cc/ipswichtown.png" group-title="[UK] CHAMPIONSHIP",IPSWICH TOWN : 
+http://line.4k-beast.co:80/03F69C/D09123/661234
+#EXTINF:-1 tvg-ID="" tvg-name="ROTHERHAM UNITED : " tvg-logo="https://img.logo-cdn.cc/rotherham.png" group-title="[UK] CHAMPIONSHIP",ROTHERHAM UNITED : 
+http://line.4k-beast.co:80/03F69C/D09123/661235
+#EXTINF:-1 tvg-ID="" tvg-name="LEEDS UNITED : " tvg-logo="https://img.logo-cdn.cc/leedstv.png" group-title="[UK] CHAMPIONSHIP",LEEDS UNITED : 
+http://line.4k-beast.co:80/03F69C/D09123/661236
+#EXTINF:-1 tvg-ID="" tvg-name="SHEFFIELD WEDNESDAY : " tvg-logo="https://img.logo-cdn.cc/sheffieldwednesday.png" group-title="[UK] CHAMPIONSHIP",SHEFFIELD WEDNESDAY : 
+http://line.4k-beast.co:80/03F69C/D09123/661237
+#EXTINF:-1 tvg-ID="" tvg-name="QUEENS PARK RANGERS : " tvg-logo="https://img.logo-cdn.cc/queensparkrangers.png" group-title="[UK] CHAMPIONSHIP",QUEENS PARK RANGERS : 
+http://line.4k-beast.co:80/03F69C/D09123/661238
+#EXTINF:-1 tvg-ID="" tvg-name="SWANSEA CITY : " tvg-logo="https://img.logo-cdn.cc/swanseacity.png" group-title="[UK] CHAMPIONSHIP",SWANSEA CITY : 
+http://line.4k-beast.co:80/03F69C/D09123/661239
+#EXTINF:-1 tvg-ID="" tvg-name="SUNDERLAND : " tvg-logo="https://img.logo-cdn.cc/sunderland.png" group-title="[UK] CHAMPIONSHIP",SUNDERLAND : 
+http://line.4k-beast.co:80/03F69C/D09123/661240
+#EXTINF:-1 tvg-ID="" tvg-name="WEST BROMWICH ALBION : " tvg-logo="https://img.logo-cdn.cc/westbromwichalbion.png" group-title="[UK] CHAMPIONSHIP",WEST BROMWICH ALBION : 
+http://line.4k-beast.co:80/03F69C/D09123/661241
+#EXTINF:-1 tvg-ID="" tvg-name="LEICESTER CITY : " tvg-logo="https://img.logo-cdn.cc/leicestercity.png" group-title="[UK] CHAMPIONSHIP",LEICESTER CITY : 
+http://line.4k-beast.co:80/03F69C/D09123/661242
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 1: Leicester vs Southampton 23/04 (CH) (20:00 UK)" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 1: Leicester vs Southampton 23/04 (CH) (20:00 UK)
+http://line.4k-beast.co:80/03F69C/D09123/1334057
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 2: " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 2: 
+http://line.4k-beast.co:80/03F69C/D09123/1334058
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 3: " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 3: 
+http://line.4k-beast.co:80/03F69C/D09123/1334059
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 4:  " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 4:  
+http://line.4k-beast.co:80/03F69C/D09123/1334060
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 5: " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 5: 
+http://line.4k-beast.co:80/03F69C/D09123/1334061
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 6:  " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 6:  
+http://line.4k-beast.co:80/03F69C/D09123/1334062
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 7:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 7:
+http://line.4k-beast.co:80/03F69C/D09123/1334063
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 8:  " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 8:  
+http://line.4k-beast.co:80/03F69C/D09123/1334064
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 9:  " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 9:  
+http://line.4k-beast.co:80/03F69C/D09123/1334065
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 10: " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 10: 
+http://line.4k-beast.co:80/03F69C/D09123/1334066
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 11:  " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 11:  
+http://line.4k-beast.co:80/03F69C/D09123/1334067
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 12: " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 12: 
+http://line.4k-beast.co:80/03F69C/D09123/1334068
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 13: " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 13: 
+http://line.4k-beast.co:80/03F69C/D09123/1334069
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 14: " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 14: 
+http://line.4k-beast.co:80/03F69C/D09123/1334070
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 15:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 15:
+http://line.4k-beast.co:80/03F69C/D09123/1334071
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 16:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 16:
+http://line.4k-beast.co:80/03F69C/D09123/1334072
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 17: " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 17: 
+http://line.4k-beast.co:80/03F69C/D09123/1334073
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 18:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 18:
+http://line.4k-beast.co:80/03F69C/D09123/1334074
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 19:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 19:
+http://line.4k-beast.co:80/03F69C/D09123/1334075
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 20:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 20:
+http://line.4k-beast.co:80/03F69C/D09123/1334076
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 21:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 21:
+http://line.4k-beast.co:80/03F69C/D09123/1334077
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 22: " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 22: 
+http://line.4k-beast.co:80/03F69C/D09123/1334078
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 23: " tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 23: 
+http://line.4k-beast.co:80/03F69C/D09123/1334079
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 24:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 24:
+http://line.4k-beast.co:80/03F69C/D09123/1334080
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 25:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 25:
+http://line.4k-beast.co:80/03F69C/D09123/1334081
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 26:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 26:
+http://line.4k-beast.co:80/03F69C/D09123/1334082
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 27:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 27:
+http://line.4k-beast.co:80/03F69C/D09123/1334083
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 28:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 28:
+http://line.4k-beast.co:80/03F69C/D09123/1334084
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 29:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 29:
+http://line.4k-beast.co:80/03F69C/D09123/1334085
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 30:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 30:
+http://line.4k-beast.co:80/03F69C/D09123/1334086
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 31:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 31:
+http://line.4k-beast.co:80/03F69C/D09123/1334087
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 32:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 32:
+http://line.4k-beast.co:80/03F69C/D09123/1334088
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 33:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 33:
+http://line.4k-beast.co:80/03F69C/D09123/1334089
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 34:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 34:
+http://line.4k-beast.co:80/03F69C/D09123/1334090
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 35:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 35:
+http://line.4k-beast.co:80/03F69C/D09123/1334091
+#EXTINF:-1 tvg-ID="" tvg-name="EFL 36:" tvg-logo="https://img.logo-cdn.cc/efl.png" group-title="[UK] EFL / IFOLLOW",EFL 36:
+http://line.4k-beast.co:80/03F69C/D09123/1334092
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: BLACKPOOL" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: BLACKPOOL
+http://line.4k-beast.co:80/03F69C/D09123/740969
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: BARNSLEY" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: BARNSLEY
+http://line.4k-beast.co:80/03F69C/D09123/740970
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: BOLTON WANDERERS" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: BOLTON WANDERERS
+http://line.4k-beast.co:80/03F69C/D09123/740971
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: BRISTOL ROVERS" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: BRISTOL ROVERS
+http://line.4k-beast.co:80/03F69C/D09123/740972
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: BURTON ALBION" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: BURTON ALBION
+http://line.4k-beast.co:80/03F69C/D09123/740973
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: CAMBRIDGE UNITED" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: CAMBRIDGE UNITED
+http://line.4k-beast.co:80/03F69C/D09123/740974
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: CHARLTON ATHLETIC" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: CHARLTON ATHLETIC
+http://line.4k-beast.co:80/03F69C/D09123/740975
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: CHELTENHAM TOWN" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: CHELTENHAM TOWN
+http://line.4k-beast.co:80/03F69C/D09123/740976
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: DERBY COUNTY" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: DERBY COUNTY
+http://line.4k-beast.co:80/03F69C/D09123/740977
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: EXETER CITY" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: EXETER CITY
+http://line.4k-beast.co:80/03F69C/D09123/740978
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: FLEETWOOD TOWN" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: FLEETWOOD TOWN
+http://line.4k-beast.co:80/03F69C/D09123/740979
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: CARLISLE UNITED" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: CARLISLE UNITED
+http://line.4k-beast.co:80/03F69C/D09123/740980
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: LEYTON ORIENT" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: LEYTON ORIENT
+http://line.4k-beast.co:80/03F69C/D09123/740981
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: LINCOLN CITY" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: LINCOLN CITY
+http://line.4k-beast.co:80/03F69C/D09123/740982
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: NORTHAMPTON TOWN" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: NORTHAMPTON TOWN
+http://line.4k-beast.co:80/03F69C/D09123/740983
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: READING" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: READING
+http://line.4k-beast.co:80/03F69C/D09123/740984
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: OXFORD UNITED" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: OXFORD UNITED
+http://line.4k-beast.co:80/03F69C/D09123/740985
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: PETERBOROUGH UNITED" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: PETERBOROUGH UNITED
+http://line.4k-beast.co:80/03F69C/D09123/740986
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: STEVENAGE" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: STEVENAGE
+http://line.4k-beast.co:80/03F69C/D09123/740987
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: PORT VALE" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: PORT VALE
+http://line.4k-beast.co:80/03F69C/D09123/740988
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: PORTSMOUTH" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: PORTSMOUTH
+http://line.4k-beast.co:80/03F69C/D09123/740989
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: WIGAN ATHLETIC" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: WIGAN ATHLETIC
+http://line.4k-beast.co:80/03F69C/D09123/740990
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: SHREWSBURY TOWN" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: SHREWSBURY TOWN
+http://line.4k-beast.co:80/03F69C/D09123/740991
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 1: WYCOMBE WANDERERS" tvg-logo="https://img.logo-cdn.cc/league1.png" group-title="[UK] LEAGUE ONE",[UK] LEAGUE 1: WYCOMBE WANDERERS
+http://line.4k-beast.co:80/03F69C/D09123/740992
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: AFC WIMBLEDON" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: AFC WIMBLEDON
+http://line.4k-beast.co:80/03F69C/D09123/740993
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: BARROW AFC" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: BARROW AFC
+http://line.4k-beast.co:80/03F69C/D09123/740994
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: BRADFORD CITY" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: BRADFORD CITY
+http://line.4k-beast.co:80/03F69C/D09123/740995
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: ACCRINGTON STANLEY" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: ACCRINGTON STANLEY
+http://line.4k-beast.co:80/03F69C/D09123/740996
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: COLCHESTER UNITED" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: COLCHESTER UNITED
+http://line.4k-beast.co:80/03F69C/D09123/740997
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: CRAWLEY TOWN" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: CRAWLEY TOWN
+http://line.4k-beast.co:80/03F69C/D09123/740998
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: CREWE ALEXANDRA" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: CREWE ALEXANDRA
+http://line.4k-beast.co:80/03F69C/D09123/740999
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: DONCASTER ROVERS" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: DONCASTER ROVERS
+http://line.4k-beast.co:80/03F69C/D09123/741000
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: GILLINGHAM" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: GILLINGHAM
+http://line.4k-beast.co:80/03F69C/D09123/741001
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: GRIMSBY TOWN" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: GRIMSBY TOWN
+http://line.4k-beast.co:80/03F69C/D09123/741002
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: HARROGATE TOWN" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: HARROGATE TOWN
+http://line.4k-beast.co:80/03F69C/D09123/741003
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: FOREST GREEN ROVERS" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: FOREST GREEN ROVERS
+http://line.4k-beast.co:80/03F69C/D09123/741004
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: MK DONS" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: MK DONS
+http://line.4k-beast.co:80/03F69C/D09123/741005
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: MANSFIELD TOWN" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: MANSFIELD TOWN
+http://line.4k-beast.co:80/03F69C/D09123/741006
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: NEWPORT COUNTY" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: NEWPORT COUNTY
+http://line.4k-beast.co:80/03F69C/D09123/741007
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: MORECAMBE" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: MORECAMBE
+http://line.4k-beast.co:80/03F69C/D09123/741008
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: NOTTS COUNTY" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: NOTTS COUNTY
+http://line.4k-beast.co:80/03F69C/D09123/741009
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: SALFORD CITY" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: SALFORD CITY
+http://line.4k-beast.co:80/03F69C/D09123/741010
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: WREXHAM" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: WREXHAM
+http://line.4k-beast.co:80/03F69C/D09123/741011
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: STOCKPORT COUNTY" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: STOCKPORT COUNTY
+http://line.4k-beast.co:80/03F69C/D09123/741012
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: SUTTON UNITED" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: SUTTON UNITED
+http://line.4k-beast.co:80/03F69C/D09123/741013
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: SWINDON TOWN" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: SWINDON TOWN
+http://line.4k-beast.co:80/03F69C/D09123/741014
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: TRANMERE ROVERS" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: TRANMERE ROVERS
+http://line.4k-beast.co:80/03F69C/D09123/741015
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] LEAGUE 2: WALSALL" tvg-logo="https://img.logo-cdn.cc/league2.png" group-title="[UK] LEAGUE TWO",[UK] LEAGUE 2: WALSALL
+http://line.4k-beast.co:80/03F69C/D09123/741016
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 1" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 1
+http://line.4k-beast.co:80/03F69C/D09123/526190
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 2" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 2
+http://line.4k-beast.co:80/03F69C/D09123/526191
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 3" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 3
+http://line.4k-beast.co:80/03F69C/D09123/526192
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 4" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 4
+http://line.4k-beast.co:80/03F69C/D09123/526193
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 5" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 5
+http://line.4k-beast.co:80/03F69C/D09123/526194
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 6" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 6
+http://line.4k-beast.co:80/03F69C/D09123/526195
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 7" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 7
+http://line.4k-beast.co:80/03F69C/D09123/526196
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 8" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 8
+http://line.4k-beast.co:80/03F69C/D09123/526197
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 9" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 9
+http://line.4k-beast.co:80/03F69C/D09123/526198
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 10" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 10
+http://line.4k-beast.co:80/03F69C/D09123/526199
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 13" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 13
+http://line.4k-beast.co:80/03F69C/D09123/715603
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 11" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 11
+http://line.4k-beast.co:80/03F69C/D09123/715604
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] AMAZON PRIME 12" tvg-logo="http://img.logo-cdn.cc/primevideo.png" group-title="[UK] PRIME VIDEO",[UK] AMAZON PRIME 12
+http://line.4k-beast.co:80/03F69C/D09123/715605
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Voyager Documentaries" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Voyager Documentaries
+http://line.4k-beast.co:80/03F69C/D09123/703859
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Kids" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Kids
+http://line.4k-beast.co:80/03F69C/D09123/703862
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] World Poker Tour" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] World Poker Tour
+http://line.4k-beast.co:80/03F69C/D09123/703865
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] The Pet Collective" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] The Pet Collective
+http://line.4k-beast.co:80/03F69C/D09123/703866
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Unsolved Mysteries" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Unsolved Mysteries
+http://line.4k-beast.co:80/03F69C/D09123/703870
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Reality" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Reality
+http://line.4k-beast.co:80/03F69C/D09123/703871
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Mythbusters" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Mythbusters
+http://line.4k-beast.co:80/03F69C/D09123/703873
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Fear Factor" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Fear Factor
+http://line.4k-beast.co:80/03F69C/D09123/703874
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Ice Pilots" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Ice Pilots
+http://line.4k-beast.co:80/03F69C/D09123/703875
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Anime All Day" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Anime All Day
+http://line.4k-beast.co:80/03F69C/D09123/703876
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Comedy" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Comedy
+http://line.4k-beast.co:80/03F69C/D09123/703877
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Ghost Dimension" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Ghost Dimension
+http://line.4k-beast.co:80/03F69C/D09123/703879
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Homes Under Hammer" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Homes Under Hammer
+http://line.4k-beast.co:80/03F69C/D09123/703882
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Hunter" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Hunter
+http://line.4k-beast.co:80/03F69C/D09123/703885
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Deadly Women" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Deadly Women
+http://line.4k-beast.co:80/03F69C/D09123/703887
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] FBI Files" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] FBI Files
+http://line.4k-beast.co:80/03F69C/D09123/703888
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Stand Up" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Stand Up
+http://line.4k-beast.co:80/03F69C/D09123/703890
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] 5 Cops" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] 5 Cops
+http://line.4k-beast.co:80/03F69C/D09123/703891
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Conspiracy" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Conspiracy
+http://line.4k-beast.co:80/03F69C/D09123/703894
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV History" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV History
+http://line.4k-beast.co:80/03F69C/D09123/703895
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Music" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Music
+http://line.4k-beast.co:80/03F69C/D09123/703896
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Paranormal" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Paranormal
+http://line.4k-beast.co:80/03F69C/D09123/703897
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Fishing" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Fishing
+http://line.4k-beast.co:80/03F69C/D09123/703898
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Inspector Gadget" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Inspector Gadget
+http://line.4k-beast.co:80/03F69C/D09123/703901
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Motor" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Motor
+http://line.4k-beast.co:80/03F69C/D09123/703910
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Beverly Hillbillies" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Beverly Hillbillies
+http://line.4k-beast.co:80/03F69C/D09123/703911
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Action" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Action
+http://line.4k-beast.co:80/03F69C/D09123/703913
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Thrillers" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Thrillers
+http://line.4k-beast.co:80/03F69C/D09123/703914
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Sci-Fi" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Sci-Fi
+http://line.4k-beast.co:80/03F69C/D09123/703915
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Nosey" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Nosey
+http://line.4k-beast.co:80/03F69C/D09123/703917
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Family" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Family
+http://line.4k-beast.co:80/03F69C/D09123/703919
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Animals" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Animals
+http://line.4k-beast.co:80/03F69C/D09123/703920
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Food" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Food
+http://line.4k-beast.co:80/03F69C/D09123/703924
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] The New Detectives" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] The New Detectives
+http://line.4k-beast.co:80/03F69C/D09123/703926
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Hell's Kitchen" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Hell's Kitchen
+http://line.4k-beast.co:80/03F69C/D09123/703927
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Full Custom Garage" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Full Custom Garage
+http://line.4k-beast.co:80/03F69C/D09123/703928
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Andromeda" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Andromeda
+http://line.4k-beast.co:80/03F69C/D09123/703930
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Sensing Murder" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Sensing Murder
+http://line.4k-beast.co:80/03F69C/D09123/703933
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Crime Investigation" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Crime Investigation
+http://line.4k-beast.co:80/03F69C/D09123/703935
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Wipeout" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Wipeout
+http://line.4k-beast.co:80/03F69C/D09123/703938
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Undercover Boss Global" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Undercover Boss Global
+http://line.4k-beast.co:80/03F69C/D09123/703941
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Ghost Hunters" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Ghost Hunters
+http://line.4k-beast.co:80/03F69C/D09123/703942
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Ghost Hunters" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Ghost Hunters
+http://line.4k-beast.co:80/03F69C/D09123/703943
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Dog The Bounty Hunter" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Dog The Bounty Hunter
+http://line.4k-beast.co:80/03F69C/D09123/703944
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Duck Dynasty" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Duck Dynasty
+http://line.4k-beast.co:80/03F69C/D09123/703945
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Tough Jobs" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Tough Jobs
+http://line.4k-beast.co:80/03F69C/D09123/703946
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Judge Nosey" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Judge Nosey
+http://line.4k-beast.co:80/03F69C/D09123/703947
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Paranormal State" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Paranormal State
+http://line.4k-beast.co:80/03F69C/D09123/703950
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Highway to Heaven" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Highway to Heaven
+http://line.4k-beast.co:80/03F69C/D09123/703951
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] 10 Years Younger" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] 10 Years Younger
+http://line.4k-beast.co:80/03F69C/D09123/703952
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Wild at Heart" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Wild at Heart
+http://line.4k-beast.co:80/03F69C/D09123/703953
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Little Baby Bum" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Little Baby Bum
+http://line.4k-beast.co:80/03F69C/D09123/703960
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Just for Laughs" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Just for Laughs
+http://line.4k-beast.co:80/03F69C/D09123/703962
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Morphle" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Morphle
+http://line.4k-beast.co:80/03F69C/D09123/703963
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Homicide Hunter" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Homicide Hunter
+http://line.4k-beast.co:80/03F69C/D09123/703964
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Dog Whisperer" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Dog Whisperer
+http://line.4k-beast.co:80/03F69C/D09123/703965
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] My Strange Addiction" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] My Strange Addiction
+http://line.4k-beast.co:80/03F69C/D09123/703966
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Extreme American Homes" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Extreme American Homes
+http://line.4k-beast.co:80/03F69C/D09123/703967
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Baywatch" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Baywatch
+http://line.4k-beast.co:80/03F69C/D09123/703968
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Beyond Belief: Fact or Fiction" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Beyond Belief: Fact or Fiction
+http://line.4k-beast.co:80/03F69C/D09123/703969
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Animation" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Animation
+http://line.4k-beast.co:80/03F69C/D09123/703972
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] On The Case" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] On The Case
+http://line.4k-beast.co:80/03F69C/D09123/703976
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pimp my Ride" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pimp my Ride
+http://line.4k-beast.co:80/03F69C/D09123/703977
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Sci-fi Series" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Sci-fi Series
+http://line.4k-beast.co:80/03F69C/D09123/703979
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Inside Crime UK" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Inside Crime UK
+http://line.4k-beast.co:80/03F69C/D09123/703982
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Mystery TV" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Mystery TV
+http://line.4k-beast.co:80/03F69C/D09123/703983
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Location, location, location" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Location, location, location
+http://line.4k-beast.co:80/03F69C/D09123/703986
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Great British Menu" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Great British Menu
+http://line.4k-beast.co:80/03F69C/D09123/703988
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Judge Judy" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Judge Judy
+http://line.4k-beast.co:80/03F69C/D09123/703989
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Pluto TV Adventure" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Pluto TV Adventure
+http://line.4k-beast.co:80/03F69C/D09123/703990
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Moonbug Kids" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Moonbug Kids
+http://line.4k-beast.co:80/03F69C/D09123/703992
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] World s Greatest" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] World s Greatest
+http://line.4k-beast.co:80/03F69C/D09123/703993
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Catfish" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Catfish
+http://line.4k-beast.co:80/03F69C/D09123/703995
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] 48 Hours" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] 48 Hours
+http://line.4k-beast.co:80/03F69C/D09123/703996
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Auction Hunters" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Auction Hunters
+http://line.4k-beast.co:80/03F69C/D09123/703997
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Sarah s House" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Sarah s House
+http://line.4k-beast.co:80/03F69C/D09123/703999
+#EXTINF:-1 tvg-ID="" tvg-name="[UK] Teen Mom" tvg-logo="https://img.logo-cdn.cc/PLUTOTV.png" group-title="[UK] PLUTO TV",[UK] Teen Mom
+http://line.4k-beast.co:80/03F69C/D09123/704000
